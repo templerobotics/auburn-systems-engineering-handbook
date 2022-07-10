@@ -1,0 +1,1864 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<!-- #BeginTemplate "Auburn%20ESMD%20Course.dwt" -->
+
+<head>
+<meta content="en-us" http-equiv="Content-Language" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
+<title>Chapter 5</title>
+<style type="text/css">
+
+
+
+.style5 {
+	text-align: center;
+}
+.style8 {
+	color: #FE4819;
+}
+.style9 {
+	font-family: "Times New Roman";
+}
+.style10 {
+	margin-left: 40px;
+}
+</style>
+<!-- #EndEditable -->
+<style type="text/css">
+.style1 {
+	color: #FFFFFF;
+}
+.newStyle1 {
+	font-family: Calibri;
+	font-size: medium;
+	background-color: #000000;
+	background-image: url('SiteImageFiles/08.jpg');
+	color: #FFFFFF;
+}
+a {
+	color: #FE4819;
+}
+a:visited {
+	color: #00FFFF;
+}
+.style2 {
+	color: #000000;
+}
+.style3 {
+	text-align: right;
+}
+.style4 {
+	text-align: right;
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
+.style5 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.style6 {
+	color: #00FFFF;
+	font-weight: bold;
+}
+</style>
+<script type="text/javascript">
+<!--
+function FP_swapImg() {//v1.0
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+}
+
+function FP_preloadImgs() {//v1.0
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+ return null;
+}
+// -->
+</script>
+</head>
+
+<body style="background-image: url('SiteImageFiles/tiled_bg_stars.jpg'); background-attachment: fixed; color: #FFFFFF; background-color: #000000;" onload="FP_preloadImgs(/*url*/'SiteImageFiles/button7.jpg',/*url*/'SiteImageFiles/button8.jpg',/*url*/'SiteImageFiles/button6E.jpg',/*url*/'SiteImageFiles/button6F.jpg',/*url*/'buttonA1.jpg',/*url*/'buttonB1.jpg')">
+
+<div>
+	<img alt="" src="Auburn%20Banner-psd.png" width="932" height="155" />
+	<div style="position: absolute; width: 334px; height: 117px; z-index: 1; left: 217px; top: 56px" id="layer1" class="style5">
+		<span class="style6">ESMD Course Material : Fundamentals of Lunar and 
+		Systems Engineering for Senior Project Teams, with Application to a 
+		Lunar Excavator</span><br />
+		<br />
+		Contact: David Beale, dbeale@eng.auburn.edu</div>
+	</div>
+
+<hr />
+
+<table style="width: 100%">
+	<tr>
+		<td style="width: 180px" valign="top" class="style3">
+		<a href="index.htm">
+		<img alt="Home" height="20" src="SiteImageFiles/buttonA.jpg" style="border: 0" width="180" class="style2" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="Home" --></a><a href="index.htm"><hr />
+		<a href="ChapterX.htm">
+		<img alt="Chapter X" height="20" src="SiteImageFiles/buttonB.jpg" style="border: 0" width="180" class="style2" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="Chapter X" --></a><hr />
+		<img alt="Lunar Engineering Handbook" height="40" onmousedown="FP_swapImg(1,0,/*id*/'',/*url*/'SiteImageFiles/button6F.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'',/*url*/'SiteImageFiles/buttonC.jpg')" onmouseover="FP_swapImg(1,0,/*id*/'',/*url*/'SiteImageFiles/button6E.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'',/*url*/'SiteImageFiles/button6E.jpg')" src="SiteImageFiles/buttonC.jpg" style="border: 0" width="180" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Tab 4; fp-font: Calibri; fp-font-style: Bold; fp-proportional: 0" fp-title="Lunar Engineering Handbook" --><hr noshade="noshade" style="height: 5px" />
+		</a>
+		<span class="style2"><a href="Chapter1.htm">
+		<img alt="Chapter 1" height="20" src="SiteImageFiles/buttonF.jpg" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="Chapter 1" --></a><hr class="style4" style="width: 150px" />
+		<a href="Chapter2.htm">
+		<img alt="Chapter 2" height="20" src="SiteImageFiles/button10.jpg" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="Chapter 2" --></a><hr class="style4" style="width: 150px" />
+		<a href="Chapter3.htm">
+		<img alt="Chapter 3" height="20" src="SiteImageFiles/button11.jpg" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="Chapter 3" --></a><hr class="style4" style="width: 150px" />
+		<a href="Chapter4.htm">
+		<img alt="Chapter 4" height="20" src="SiteImageFiles/button12.jpg" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="Chapter 4" --></a><hr class="style4" style="width: 150px" />
+		<a href="Chapter5.htm">
+		<img alt="Chapter 5" height="20" src="SiteImageFiles/button14.jpg" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="Chapter 5" --></a><hr class="style4" style="width: 150px" />
+		<a href="Chapter6.htm">
+		<img alt="Chapter 6" height="20" src="SiteImageFiles/button15.jpg" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="Chapter 6" --></a><hr class="style4" style="width: 150px" />
+		<a href="Chapter7.htm">
+		<img alt="Chapter 7" height="20" src="SiteImageFiles/button16.jpg" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="Chapter 7" --></a><hr class="style4" style="width: 150px" />
+		<a href="Chapter8.htm">
+		<img alt="Chapter 8" height="20" src="SiteImageFiles/button17.jpg" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="Chapter 8" --></a><hr style="width: 150px" class="style4" />
+		<a href="PaulPenko81109Chapter%209.pdf">
+		<img style="border: 0" id="img1" src="button9.jpg" height="20" width="150" alt="Chapter 9" onmouseover="FP_swapImg(1,0,/*id*/'img1',/*url*/'buttonA1.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img1',/*url*/'button9.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img1',/*url*/'buttonB1.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img1',/*url*/'buttonA1.jpg')" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-proportional: 0" fp-title="Chapter 9" --></a><hr />
+		<a href="AdditionalResources.htm">
+		<img alt="Additional Resources" height="20" src="SiteImageFiles/button18.jpg" style="border: 0" width="180" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="Additional Resources" --></a><hr />
+		<a href="ContactInfo.htm">
+		<img alt="Contact Info" height="20" src="SiteImageFiles/button19.jpg" style="border: 0" width="180" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="Contact Info" --></a><hr />
+		<a href="AboutAuthors.htm">
+		<img alt="About the Authors" height="20" src="SiteImageFiles/button7.jpg" style="border: 0" width="180" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="About the Authors" --></a><hr />
+		<a href="Comments.htm">
+		<img alt="Comments" height="20" src="SiteImageFiles/button1A.jpg" style="border: 0" width="180" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="Comments" --></a></span><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="Comments" --><hr />
+		<br />
+		<br />
+		<br />
+		<br />
+		</td>
+		<td class="style1" valign="top">
+		<!-- #BeginEditable "body" -->
+
+		<o:smarttagtype namespaceuri="urn:schemas-microsoft-com:office:smarttags" name="place">
+		<div>
+			<h2 class="style5">
+			<a name="Chapter5TheLunarEnvironment">Chapter 
+			5: The Lunar Environment and Issues for Engineering Design</a></h2>
+			<p align="center">
+			<b>David Beale</b></p>
+			<w:sdt sdtdocpart="t" docparttype="Table of Contents" docpartunique="t" id="209345394">
+			<p>
+			Contents<w:sdtpr></w:sdtpr></p>
+			<ol>
+				<li><a href="#Chapter5TheLunarEnvironment">Chapter 
+			5: The Lunar Environment and Issues for Engineering Design</a><ol>
+					<li><a href="#GravityandLunarVacuum">Gravity, the Lunar Vacuu<span class="style8">m 
+					and Pressure</span></a></li>
+					<li><a href="#LunarDayandNight">The 
+			Lunar Day and Night</a></li>
+					<li><a href="#Radiatation">Radiation</a><ol>
+						<li><a href="#EMParticleRad">Electromagnetic 
+			and Particle Radiation (Smithers, 2007; Tribble, 2003)</a></li>
+						<li><a href="#IonizingRad">Ionizing 
+			Radiation</a></li>
+						<li><a href="#RadiationandSurvivability">Radiation 
+			and Survivability</a></li>
+					</ol>
+					</li>
+					<li><a href="#SurfaceTemperature">Surface 
+			Temperature</a></li>
+					<li><a href="#Micrometeoroids">Micrometeoroids</a></li>
+					<li><a href="#Regolith">Regolith</a><ol>
+						<li><a href="#General Characteristics">General 
+			Characteristics</a></li>
+						<li><a href="#OtherPhysicalProperties">Other 
+			Physical Properties of Regolith</a></li>
+						<li><a href="#Chemistry">Chemistry</a></li>
+						<li><a href="#GeotechnicalandEngineeringProperties">Geotechnical 
+			and Engineering properties</a></li>
+						<li><a href="#RegolithSimulants">Regolith Simulants</a></li>
+					</ol>
+					</li>
+					<li><a href="#SummaryofLunarResources">Summary 
+			of Lunar Resources</a></li>
+					<li><a href="#References">References</a></li>
+					<li><a href="#DraftAppendix">DRAFT&nbsp;&nbsp;APPENDIX 
+			– SOIL AND ROVER FORCE CALCULATIONS</a></li>
+				</ol>
+				</li>
+			</ol>
+			<p>
+			&nbsp;</p>
+			</w:sdt>
+			<p>
+			The moon is a challenging place for human survival and equipment.&nbsp;&nbsp;There 
+			is no free water (except for the possibility of water-ice at the 
+			lunar poles), essentially no atmosphere and pressures of a hard 
+			vacuum (&lt;10<sup>-6</sup>&nbsp;mm Hg).&nbsp;&nbsp;There 
+			are severe temperature fluctuations, lethal radiation and a fine 
+			lunar dust that is a concern for lunar base activities.&nbsp;&nbsp;The 
+			terrain of the moon consists of common earth features including 
+			craters, mountains, ridges, and plains.&nbsp;&nbsp;Volcanic 
+			activity has long since ceased.&nbsp;&nbsp;Micrometeoroid 
+			activity is very prevalent.&nbsp;&nbsp;There is some seismic activity due to 
+			moonquakes (the largest ever recorded was an earth equivalent 
+			magnitude of 4).&nbsp;&nbsp;The designer of any environmentally-exposed 
+			component, structure or&nbsp;system must be aware of&nbsp;all the 
+			environmental stressors, and account for their effects by 
+			translating the environmental conditions to requirements in the 
+			systems engineering process.&nbsp;&nbsp; </p>
+			<p>
+			Yet despite being so inhospitable, the environment does provide many 
+			of the <em>in-situ</em> resources to build and sustain a lunar base.&nbsp;&nbsp;The 
+			most important resources are sunlight and the lunar dirt called<i> regolith</i>.&nbsp;&nbsp;&nbsp;The 
+			sunlight is a source for thermal power and conversion to electrical 
+			power.&nbsp;&nbsp;The 
+			regolith can be processed to extract 1) oxygen for breathing, water 
+			production and fuel, 2) hydrogen for fuel and water production and 
+			3) metals for construction.&nbsp;&nbsp;Regolith 
+			can also be used as a building material for roads, berms, habitats, 
+			garages, landing pads, etc.&nbsp;</p>
+			<p>
+			The Lunar Sourcebook&nbsp;(Heiken, 
+			Vaniman, &amp; French, 1991)&nbsp;is the source of&nbsp; most of the 
+			information presented below.&nbsp;&nbsp;Other 
+			useful references are the Lunar and Planetary Institute&nbsp;&nbsp;(LPI, 
+			2008), which has Apollo Mission summaries, information on lunar 
+			samples and Apollo documents describing the Apollo mission 
+			equipment, including Lunar Roving Vehicles (LRVs) and landing 
+			modules.&nbsp;There are many photographs, maps, reports and 
+			information about lunar samples.&nbsp;&nbsp;The 
+			Moon&nbsp;(Schrunk, 2008)&nbsp;and 
+			The Lunar Base Handbook&nbsp;(Eckart, 
+			1999)&nbsp;contain chapters 
+			on these and other lunar topics.</p>
+			<h2>
+			<a name="GravityandLunarVacuum">Gravity, the Lunar Vacuum and 
+			Pressure</a> </h2>
+			<p>
+			Gravitational acceleration on the moon’s surface is 1.622 m/sec<sup>2</sup>, 
+			or about 1/6 that of earth. 
+			Weights of everything will be 1/6 that of the same object on earth, 
+			hence loaded structural members and mechanisms for supporting or 
+			lifting loads can be made smaller and lighter.&nbsp;&nbsp;Lighter weights mean 
+			that vehicles will have less available maximum tractive force than on earth for 
+			the same mass vehicle.&nbsp; Of 
+			course inertia forces (that is forces due to linear and rotational 
+			accelerations) will still be present.&nbsp;&nbsp;&nbsp;</p>
+			<p>
+			Light gases, like hydrogen, are heated to velocities sufficiently 
+			high enough to escape the gravitational pull.&nbsp; Most gases are 
+			eventually removed by the solar wind.&nbsp;&nbsp; As 
+			a result there is essentially no atmosphere to create an atmospheric pressure on 
+			the surface, as we experience on earth from pressure created by the 
+			weight of the column of air above us.&nbsp;&nbsp;The 
+			atmospheric pressure on the surface of the moon was measured at ~1x 
+			10<sup>-12</sup>&nbsp;mm Hg 
+			(760 mm Hg = 1 atm= 1.01E5 Pa = 101 kPa), which is so little pressure that the 
+			moon can be considered a hard vacuum.&nbsp;&nbsp;This 
+			is a pressure that can only be achieved on earth in special vacuum 
+			chambers.&nbsp;&nbsp;</p>
+			<p>
+			Without 
+			an atmosphere micrometeoroids are able to reach the surface at high speeds.&nbsp;&nbsp;Without 
+			an atmosphere the sun’s radiation is more intense than on earth, and 
+			particularly harmful types of radiation reach the surface.&nbsp;Organic 
+			materials can&nbsp;<i>outgas</i> and release volatile chemicals when 
+			exposed to low pressure.&nbsp;&nbsp;These 
+			volatiles often become unwanted thin film deposits on nearby 
+			surfaces.&nbsp;&nbsp; Despite the vacuum atmosphere there is 
+			significant concern about atmospheric pollution created by lunar 
+			missions and a lunar base.&nbsp;&nbsp;&nbsp;Emitted gases can accumulate and 
+			pollute what atmosphere is there, which could degrade the 
+			performance of scientific instruments or manufacturing processes 
+			that require a vacuum. </p>
+			<p>
+			Humans require a pressurized environment for survival functions such 
+			as proper breathing and coughing.&nbsp; Living quarters will 
+			effectively be pressure vessels that may be pressurized up to 1 
+			atmosphere, but at least .26 to .3 atmospheres.&nbsp;&nbsp; Space 
+			suits may have pressures less than one atmosphere to improve their 
+			mobility (Jablonski &amp; Ogden, 2008).&nbsp; </p>
+			<p>
+			The thin atmosphere offers little thermal insulation, so 
+			temperatures can drop quickly at night, and rise quickly due to the 
+			sun&#39;s radiation during the day.&nbsp;&nbsp;&nbsp; Powerful radiation 
+			from sunlight on one side of an object, and shadow on the other will 
+			create a large temperature gradient.&nbsp; A&nbsp; &quot;thermal shock&quot; 
+			can follow, where different parts of an object thermally expand by 
+			different amounts, leading to large potentially failure-inducing 
+			strains.&nbsp; The effect of thermal shock is more pronounced in 
+			brittle materials such as glass, ceramics or metals below the glass 
+			transition temperature (ductile-brittle transition temperature for 
+			metals).&nbsp; </p>
+			<p>
+			We are all familiar with convective 
+			heat transfer used to cool or heat earth-based mechanical and 
+			electrical components with blowing air.&nbsp; This method is not 
+			available for controlling large temperature swings in 
+			environmentally-exposed equipment because of the lack of an 
+			atmosphere.&nbsp; Systems requiring thermal control must rely on 
+			innovative thermal control techniques.&nbsp;&nbsp;</p>
+			<h2>
+			<a name="LunarDayandNight">The 
+			Lunar Day and Night</a></h2>
+			<p>
+			Except near the poles the lunar day is 29.5 (earth) days long, with 
+			the night lasting about 14-15 days and daylight (from sunrise to 
+			sunset) also about the same.&nbsp;&nbsp;The Apollo missions operated 
+			on the lunar surface only during daylight.&nbsp; A lunar year is the 
+			same amount of time as an earth year.&nbsp;&nbsp;Very close to the poles, lunar daylight increases beyond 14-15 days.&nbsp;&nbsp;At 
+			the poles the sun’s elevation varies between +/- 1°32’ above and 
+			below the horizon, and night and day each last ½ earth year. For ½ 
+			the year at the poles the sun is barely above the horizon.&nbsp;&nbsp;For 
+			the other half the sun is barely below the horizon.&nbsp;&nbsp;</p>
+			<p>
+			Figure 
+			1 shows the orbit of the moon around the earth.&nbsp;&nbsp;The 
+			arrow on the moon is fixed to the moon, demonstrating that the moon 
+			always shows the same side to the earth; hence the moon’s rotation 
+			is said to be “gravitational-locked” to the earth. The opposite side 
+			of the moon (aka the “darkside”) is not always dark and does see 
+			sunlight, but is never visible from the earth.&nbsp;</p>
+						<p>
+			<img alt="moon phases" longdesc="moon phases" src="img32.gif" /></p>
+			<p>
+			Figure&nbsp;1&nbsp;&nbsp;&nbsp;Revolution 
+			of the moon around the earth&nbsp;(Heiken 
+			et al., 1991)</p>
+			<h2>
+			<a name="Radiatation">Radiation</a></h2>
+			<p>
+			Radiation encompasses more than&nbsp;<i>electromagnetic 
+			wave radiation, </i>which is classified and characterized by a wave and its frequency, and 
+			includes visible light.&nbsp;&nbsp;&nbsp;A 
+			second form of radiation is&nbsp;<i>energized 
+			particulate radiation</i>.&nbsp;&nbsp;The 
+			more energetic radiation of both forms will not just affect the 
+			surface of a material, but can also affect material 
+			below the surface.&nbsp;&nbsp;Strong 
+			radiation can also ionize material in its path and degrade material 
+			properties; this is called&nbsp;<i>ionizing 
+			radiation</i>.&nbsp;&nbsp;The 
+			materials and equipment that are used on the moon must be able to 
+			survive in the radiation environment or else be protected in order 
+			to complete the mission.&nbsp;&nbsp;Special 
+			environmental effects chambers are available at NASA that can be 
+			used to expose materials to expected lunar dosages for testing.</p>
+			<h3>
+			<a name="EMParticleRad">Electromagnetic 
+			and Particle Radiation&nbsp;</a>(Smithers, 
+			2007; Tribble, 2003)</h3>
+			<p>
+			&nbsp;The electromagnetic wave spectrum of <em>electromagnetic 
+			radiation</em> includes - in order 
+			of increasing frequency - radio, microwave, terahertz, infrared, 
+			visible light, ultra-violet, x-ray and gamma rays.&nbsp;&nbsp;&nbsp;Most 
+			of this radiant energy comes from the sun and creates radiation heat 
+			when striking an object. This radiation is the source of solar 
+			power.&nbsp;&nbsp;It 
+			strikes the moon with an average energy density of 1360 W/m<sup>2</sup>.&nbsp;&nbsp;&nbsp;Some 
+			of this radiation can be damaging, such as ultra-violet (UV)&nbsp;light, which 
+			will chemically degrades&nbsp;polymer-based 
+			material like plastics and composites.&nbsp;&nbsp;UV,&nbsp;X-rays and gamma rays 
+			are strong electromagnetic <em>ionizing radiation</em>, and they possess enough kinetic energy to strip electrons off atoms.&nbsp;&nbsp;Shading 
+			can be an effective strategy to protect some susceptible materials from 
+			weaker radiation, but high energy radiation&nbsp;may&nbsp;go 
+			through thin shades.&nbsp;&nbsp;&nbsp;Metals 
+			are not degraded chemically, but direct sunlight will create 
+			significant increases in temperature causing thermal 
+			expansion.&nbsp;</p>
+			<p>
+			The other form of radiation is <em>particle radiation</em>, made up 
+			of 
+			electrons, protons, neutrons, helium nuclei and heavy ions.&nbsp;&nbsp;High 
+			energy charged particle radiation can also be ionizing.</p>
+			<h3>
+			<a name="IonizingRad">Ionizing Radiation</a></h3>
+			<p>
+			Charged particle energy is measured in electron volts (eV) per 
+			particles, and the higher the energy the more potentially damaging 
+			the particle is to anything exposed, including humans.&nbsp;&nbsp;The 
+			major components of particle ionizing radiation on the moon are from&nbsp;<i>solar 
+			winds</i>,&nbsp;<i>solar 
+			cosmic rays from solar particle events</i>&nbsp;(SPE), 
+			and&nbsp;<i>galactic cosmic 
+			rays</i>&nbsp;(GCR).&nbsp;&nbsp;Each 
+			type has a characteristic energy level measured in electron 
+			volts (eV).&nbsp;&nbsp;The 
+			higher the eV a particle has, the greater the damage, and similarly 
+			the thicker the shielding required (although the most effective 
+			shielding depends on the kind of radiation).&nbsp;&nbsp;&nbsp;The lack of an atmosphere on the moon allows ionizing radiation to 
+			strike anything on the lunar surface.&nbsp;&nbsp;Hence 
+			protection is often required, unlike on earth where our atmosphere 
+			serves that function.&nbsp;&nbsp;In 
+			addition to ionizing particles, the ionizing solar electromagnetic 
+			radiation consists predominantly of vacuum UV.&nbsp;</p>
+			<p>
+			<i>Solar Wind</i></p>
+			<p>
+			Solar Wind is a steady stream of nuclear particles continuously 
+			emitted by the sun.&nbsp;&nbsp;&nbsp;It 
+			is considered to be a <em>plasma</em>, which is a mixture of electrons and 
+			positively-charged atoms (ions) from which the electrons have 
+			been stripped.&nbsp;&nbsp;The 
+			winds are composed mostly of low to mid-range energy protons (10 keV/nucleon), along with helium ions and electrons.&nbsp;&nbsp;Solar 
+			wind travels at 300-700 km/s.&nbsp;&nbsp;&nbsp;&nbsp;The 
+			wind itself is electrically neutral.&nbsp;&nbsp;It 
+			is not considered to be particularly damaging because of its low 
+			energy.&nbsp;&nbsp;&nbsp;Solar 
+			winds have steadily bombarded the surface of the moon for billions 
+			of years, implanting valuable and easily recoverable volatile 
+			elements into the regolith.&nbsp;&nbsp;Plasma 
+			can charge a spacecraft to high electric potentials, leading to 
+			possible arching.&nbsp;&nbsp;Methods 
+			have been developed to ground the spacecraft to prevent charge 
+			buildup&nbsp;(Tribble, 2003).</p>
+			<p>
+			<i>&nbsp;Solar Cosmic Rays from Solar Particle Events (SPE)</i></p>
+			<p>
+			SPE are from <em>solar flares</em>, which are violent explosions on the sun, 
+			lasting only minutes and whose frequency peaks on an 11 year cycle.&nbsp;&nbsp;They 
+			consist of a burst of electrons and protons with high energies 
+			(&gt;10MeV) that can arrive in as little as 20 minutes after a solar 
+			flare.&nbsp;&nbsp;A 
+			large flux can arrive in a short period of time, and is lethal to 
+			humans and damaging to exposed electronic equipment.&nbsp; Humans 
+			and sensitive electronic equipment need to be moved to a 
+			radiation-shielded protective safe area such as a regolith-covered 
+			shelter.&nbsp; A warning system would be installed, since 
+			solar flares can be seen by sun monitoring telescopes before the 
+			radiation reaches the moon.&nbsp;&nbsp;&nbsp;Associated 
+			radio bursts may interrupt communications.</p>
+			<p>
+			<i>Galactic Cosmic Rays (GCR)</i></p>
+			<p>
+			GCR are very high energy ions (GeV/nucleon), and including heavier 
+			nuclei equal to or smaller than 26 (iron).&nbsp;&nbsp;GCR 
+			come from outside the solar system and are considered to be remnants 
+			of the Big Bang.&nbsp;&nbsp;Their flux is low and constant.&nbsp;&nbsp;&nbsp;GCR 
+			and SPE can burrow into material, and their tracks can be seen under 
+			the microscope in regolith particle.&nbsp;</p>
+			<h3>
+			<a name="RadiationandSurvivability">Radiation 
+			and Survivability</a></h3>
+			<p>
+			For 
+			the astronaut and other biological systems, a simple space suit is 
+			not adequate in the event of a life-threatening SPE.&nbsp;&nbsp;Solar 
+			cells, made of photovoltaic semiconductors, are directly exposed and 
+			are degraded by time exposure to both ionizing and electromagnetic 
+			radiation.&nbsp;&nbsp;SPE 
+			damage on solar panels can be reduced by preemptively shielding.&nbsp;&nbsp;&nbsp;&nbsp;Exposed 
+			organic material will be degraded by Ultra-Violet light, but could 
+			be coated with a UV blocker like a sunscreen or other coating.&nbsp;&nbsp;Integrated 
+			circuits and electronics can also be damaged by ionizing 
+			radiation, but this may be circumvented 
+			by rerouting electrical flow paths 
+			around the damaged circuit elements.&nbsp;&nbsp;SPE 
+			can be so strong that a metal protective housing may have to be 
+			unrealizably thick to be completely effective.&nbsp;&nbsp;In 
+			the case of SPE events the humans and equipment are effectively 
+			shielded by at least 2m -5m of regolith.&nbsp;&nbsp;The 
+			most effective materials for shielding SPE particles contain 
+			hydrogen, such as polyethylene and water.&nbsp;&nbsp;Design 
+			of shielding for equipment should involve a trade study, comparing 
+			all the alternative shielding methods, their cost and the risks 
+			involved.&nbsp;&nbsp;&nbsp;SPE 
+			can be a concern when sensitive electronics and equipment far from a 
+			regolith shelter become trapped in an SPE.&nbsp;</p>
+			<p>
+			The&nbsp;<i>radiation&nbsp;dose 
+			</i>is the amount of radiation deposited, measured in Rad.&nbsp;&nbsp;The 
+			damage threshold depends on the material&nbsp;(Tribble, 
+			2003).</p>
+			<p>
+			Table&nbsp;1&nbsp;&nbsp;Damage 
+			thresholds of certain materials</p>
+			<table border="1" cellpadding="0" cellspacing="0">
+				<tr>
+					<td valign="top" width="295">
+					<p>
+					Material</p>
+					</td>
+					<td valign="top" width="295">
+					<p>
+					Damage Threshold (Rad)</p>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" width="295">
+					<p>
+					Biologic matter</p>
+					</td>
+					<td valign="top" width="295">
+					<p>
+					10<sup>1</sup>&nbsp;- 
+					10<sup>2</sup></p>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" width="295">
+					<p>
+					Electronics</p>
+					</td>
+					<td valign="top" width="295">
+					<p>
+					10<sup>2</sup>&nbsp;– 
+					10<sup>6</sup></p>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" width="295">
+					<p>
+					Lubricants, hydraulic fluid</p>
+					</td>
+					<td valign="top" width="295">
+					<p>
+					10<sup>5</sup>&nbsp;– 
+					10<sup>7</sup></p>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" width="295">
+					<p>
+					Ceramics, glass</p>
+					</td>
+					<td valign="top" width="295">
+					<p>
+					10<sup>6</sup>&nbsp;– 
+					10<sup>8</sup></p>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" width="295">
+					<p>
+					Polymeric Material</p>
+					</td>
+					<td valign="top" width="295">
+					<p>
+					10<sup>7</sup>&nbsp;– 
+					10<sup>9</sup></p>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" width="295">
+					<p>
+					Structural Metal</p>
+					</td>
+					<td valign="top" width="295">
+					<p>
+					10<sup>9</sup>&nbsp;– 
+					10<sup>11</sup></p>
+					</td>
+				</tr>
+			</table>
+			<p>
+			&nbsp;</p>
+			<p>
+			Specific materials radiation resistance is shown in Table 1.&nbsp;&nbsp;Biologic 
+			matter and electronics are most severely affected and so require the 
+			most protection.&nbsp;&nbsp;&nbsp;Radiation 
+			can strongly affect and degrade the performance of semiconductors 
+			components, such as transistors and diodes.&nbsp;&nbsp;Solar 
+			cells are diodes that convert light energy to electrical, each cell 
+			producing potential difference of 1 volt and a few mA of current.&nbsp;&nbsp;Both 
+			current and voltage, and hence power output, are reduced with 
+			radiation dose.&nbsp;&nbsp;Designers 
+			must take into account that solar cell efficiency will decrease as 
+			the dosage increases, by oversizing the solar cells so that they 
+			will provide the needed power for a chosen lifetime.&nbsp;&nbsp;&nbsp;Transparent 
+			coverslides have been used for solar cells to absorb and protect 
+			against radiation.&nbsp;&nbsp;&nbsp;Indium 
+			arsenide solar cells are more resistant than gallium arsenide solar 
+			cells, which are more resistant that silicon solar cells.</p>
+			<p>
+			In electrical components ionizing radiation can cause tiny current 
+			spikes because the process of ionization can bump an electron 
+			from a lower valence to a conducting electron.&nbsp;&nbsp;As 
+			electronics components, such as microprocessors and 
+			microcontrollers, have gotten smaller the effect of ionizing 
+			radiation and the susceptibility of those devices from a single 
+			particle has been more pronounced.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If 
+			radiation causes a memory device to flip a bit, it is called a&nbsp;<i>single 
+			event upset&nbsp;</i>(SEU).&nbsp;&nbsp;&nbsp;Power 
+			MOSFET transistors can burnout.&nbsp;&nbsp;Given 
+			the expected environmental dosage of radiation, there are software 
+			routines that can calculate dose versus depth of shielding for each 
+			type of radiation&nbsp;(Conley, 
+			1998),&nbsp;(Tribble, 2003).&nbsp;&nbsp;Electronics 
+			can be “radiation-hardened” by selecting more expensive 
+			semiconductors that are designed to be resistant to single events 
+			caused by radiation, and through circuit design.&nbsp;&nbsp;Sensitive 
+			material can also be protected with an additional layer of 
+			shielding.&nbsp;&nbsp;</p>
+			<p>
+			Many materials and electronic components have been tested in space 
+			environmental chambers, and data is available for the designer.&nbsp;&nbsp;&nbsp;If 
+			a non-electronic test sample is put in chamber and exposed, a 
+			follow-up tensile test is often a good measure of strength loss.&nbsp;&nbsp;Figure 
+			2 shows the radiation resistance of the range of materials based on 
+			dose.&nbsp;&nbsp;Polymers 
+			are the most degraded, and metals the least.&nbsp;&nbsp;&nbsp;Plastics 
+			polymerize, capacitors can discharge, steel can embrittle, etc.&nbsp;&nbsp;Basic 
+			metals exposed to SPE can darken, which affects the thermal 
+			properties.&nbsp;</p>
+			<p>
+			Charged particle radiation testing of materials can be performed on 
+			a Pelletron accelerator that can produce a beam of 250 keV 
+			electrons, and a positive ion accelerator.&nbsp;&nbsp;Gamma 
+			radiation testing can be performed with a radioactive Cobalt-60 
+			source placed nearby to radiate the test material.&nbsp;&nbsp;Vacuum 
+			UV testing requires a deuterium arc lamp.</p>
+			<p>
+			<img height="445" src="SiteImageFiles/Chapter4/image071.jpg" v:shapes="Picture_x0020_86" width="342" /></p>
+			<p>
+			Figure&nbsp;2&nbsp;Relative 
+			radiation resistance of materials, Teflon is least resistant, 
+			Aluminum most resistant&nbsp;(Conley, 
+			1998)</p>
+			<h2>
+			<a name="SurfaceTemperature">Surface 
+			Temperature</a></h2>
+			<p>
+			The sun is the primary source that heats the moon.&nbsp; Surface temperatures 
+			will vary with lunar latitude, longitude and time of day.&nbsp;&nbsp;The 
+			temperature also changes with depth below the surface.&nbsp;&nbsp;The 
+			lunar surface heats up and cools much faster than earth&#39;s 
+			surface.&nbsp;&nbsp;Significant temperature differences can exist across a boundary 
+			between shadow and sunlight.</p>
+			<p>
+			The moon absorbs most of the light that falls on it, causing the 
+			regolith temperature to rise substantially during the day.&nbsp;&nbsp;The 
+			moon’s average&nbsp;<i>albedo</i>&nbsp;(the 
+			fraction of visible electromagnetic radiation reflected by the 
+			surface of a material) is only 0.07 - .10, which makes it as 
+			absorptive as black paint&nbsp;(Heiken 
+			et al., 1991). Thus the sunlit regions of the lunar surface have 
+			very high surface temperatures.&nbsp;&nbsp;&nbsp;</p>
+			<p>
+			&nbsp;Table 2 shows day and night temperature extremes of&nbsp; 
+			various lunar locations.&nbsp; Just as on earth, the sun produces 
+			the highest daytime highs near the 
+			equator, where the regolith surface temperature can reach over 250°F.&nbsp;&nbsp;Lunar surface temperatures increase 280°K near 
+			the equator from the low just before dawn to the high at noon&nbsp;(Heiken 
+			et al., 1991).&nbsp; Progressing down the table from the &quot;Equator&quot; 
+			row, we see that as the latitude progresses from the equator to the 
+			poles,&nbsp; the daytime high decreases while the nighttime low 
+			increases.&nbsp;
+			At the poles the sun rises a maximum of 1.6 degrees above the 
+			horizon, causing daytime temperatures there to be much less than at 
+			the equator.&nbsp;Because 
+			craters can be deep and have steep walls, it is possible that the 
+			regolith in dark polar craters never sees sunlight and is always in the 
+			shadows.&nbsp;&nbsp;This 
+			leads to a nearly constant and extremely low temperature of about 40 
+			degrees Kelvin.&nbsp;&nbsp;Sensor 
+			data from the Lunar Prospector orbit of the moon in 1998 indicated 
+			the presence of hydrogen inside dark polar craters (which may take 
+			the form of hydrogen or water ice).&nbsp; &nbsp;</p>
+			<p>
+			Table&nbsp;2&nbsp;&nbsp;Lunar 
+			surface temperatures based on location&nbsp; (all from Heiken, 1991)</p>
+			<p>
+			<img alt="temperatures" longdesc="temperatures" src="temp.jpg" width="720" height="257" /></p>
+			<p>
+			The temperature of an object just above the surface of the 
+			moon where near vacuum conditions exist is an interesting question.&nbsp;&nbsp;Temperature 
+			is a measure of the vibrational energy of the molecules of an 
+			object. Therefore the vacuum of space, unlike the air that 
+			surrounds us, cannot have a temperature.&nbsp;&nbsp;In 
+			an isolated vacuum chamber - with the walls at a particular 
+			temperature being the only radiation source - an ideal thermometer 
+			(which itself is an object made up of matter) will display the 
+			temperature of the surrounding walls.&nbsp;&nbsp;&nbsp;Now 
+			consider the vacuum &quot;chamber&quot; of space; space is filled with 
+			radiation energy that raises an object’s temperature like the walls 
+			of the isolated vacuum chamber.&nbsp;&nbsp;In 
+			our solar system that radiation energy is mostly particles and waves 
+			from the sun, although the moon and the earth also radiate energy.&nbsp;&nbsp;When 
+			the sun is blocked such as at night, then the moon and earth 
+			radiation are the most significant sources of radiation energy.&nbsp;&nbsp;Anywhere 
+			in space, any object will assume an equilibrium temperature where 
+			the power it radiates (which is proportional to T<sup>4</sup>&nbsp;of 
+			the object and is thermal infra-red) balances with absorbed power 
+			that was radiated by nearby celestial bodies and other objects (see 
+			the Thermal Control chapter for temperature of the moon, earth and sun).&nbsp;&nbsp;&nbsp;If 
+			the body is attached to the lunar surface, conduction of heat from 
+			the lunar surface must also be included.&nbsp;&nbsp;&nbsp;For 
+			a detailed description of the lunar thermal environment and 
+			calculation methodologies, refer to the chapter on Thermal Control.</p>
+			<p>
+			Equipment designers should be concerned with an extreme temperature 
+			gradient that occurs when one part of a device is exposed to the sun 
+			and the other in shade (Imagine a vehicle exposed to the light of 
+			the setting sun).&nbsp;&nbsp;The 
+			large heat flux can create a significant thermal control problem.&nbsp;&nbsp;Radiation 
+			is dependent upon the surface properties of absorptance and 
+			emittance.&nbsp;&nbsp;&nbsp;All 
+			heat absorbed by an object on the moon is conducted to cooler parts 
+			of the object and its supports, and also radiated back to space.&nbsp;&nbsp;Large 
+			thermal gradients caused by one side of an object in sunlight and 
+			another side in the shade can cause high thermal stresses, strains 
+			and distortions in devices with redundant load paths.&nbsp;&nbsp;Satellites 
+			can roll like a rotisserie, but lunar equipment may not be able to 
+			roll.&nbsp;&nbsp;Thermal 
+			fatigue can occurs from many high temperature/low temperature strain 
+			cycles.&nbsp;&nbsp;Consider 
+			mating parts made with materials with low or similar coefficients of 
+			thermal expansion.&nbsp;&nbsp;Thermal 
+			swings can damage electronics.&nbsp;&nbsp;Outgasing 
+			of materials and lubricant is also increased with temperature, so 
+			design so lubricants do not evaporate and polymer seals are 
+			thermally protected.&nbsp;&nbsp;&nbsp;Low 
+			temperatures can cause certain materials to become brittle and loose 
+			ductility.&nbsp;&nbsp;Be 
+			aware of component and material operating temperature range (e.g. 
+			the ductile-brittle transition temperature for metals and the glass 
+			transition temperature for composites) and 
+			design to operate in that range.</p>
+			<h2>
+			<a name="Micrometeoroids">Micrometeoroids</a></h2>
+			<p>
+			Micrometeoroids are meteoroids (naturally occurring solid bodies 
+			traveling through space) that are less than 1mm diameter, and based 
+			on their average density their mass will be less than .01 g.&nbsp;Probability 
+			of impact and risk is difficult to assess, but a 1 milligram 
+			micrometeoroid could hit larger facilities and equipment.&nbsp;&nbsp;Even 
+			though small, the high impact speed of 13-18 km/sec can make 
+			micrometeoroid impact damage a concern, so it must be a design 
+			consideration.&nbsp;&nbsp;The 
+			damage may&nbsp;not 
+			be just small pitting.&nbsp;&nbsp;Penetration 
+			thickness and crater depth of an impact can be estimated using 
+			empirical formula for certain materials presented in&nbsp;(Elfer, 
+			1996)&nbsp;as a function of&nbsp;impacted 
+			material density, thickness, impact particle mass and speed.&nbsp;&nbsp;&nbsp;It 
+			can also be tested with hypervelocity impact guns at test 
+			facilities.&nbsp;&nbsp;If 
+			occurring at low temperature brittle fracture may occur for some 
+			materials.&nbsp;&nbsp;Thin 
+			metallic sheets might perforate.&nbsp;&nbsp;However 
+			just a few millimeters of a tough composite material is estimated to 
+			provide sufficient protection from these micrometeoroid impact in 
+			the 1 milligram range&nbsp;(Heiken 
+			et al., 1991).&nbsp;&nbsp;&nbsp;Although 
+			larger impacts caused by larger micrometeoroids do occur, they are 
+			infrequent.&nbsp;&nbsp;&nbsp;Lunar habitats and garages will have to be designed to protect 
+			against even the larger micrometeoroids.&nbsp;</p>
+			<h2>
+			<a name="Regolith">Regolith</a></h2>
+			<h3>
+			<a name="General Characteristics">General Characteristics</a></h3>
+			<p>
+			Neil Armstrong, as he stepped onto the moon, stated</p>
+			<p>
+			<i>“the surface is fine and powdery.&nbsp;&nbsp;I 
+			can pick it up loosely with my toes.&nbsp;&nbsp;It 
+			does adhere in fine layers like powdered charcoal to the sole and 
+			sides of my boots.&nbsp;&nbsp;I 
+			only go in a small fraction of an inch.&nbsp;&nbsp;Maybe 
+			an eighth of an inch, but I can see the footprints on my boots and 
+			the treads in the sandy particles”</i></p>
+			<p>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The 
+			moon’s surface is almost entirely covered in a thin layer with lunar 
+			dirt and dust and rock fragments, together called lunar regolith.&nbsp;&nbsp;During 
+			the Apollo missions, fine particles of this dust were found coated 
+			on equipment surfaces and infiltrating joints of mechanisms.&nbsp;</p>
+			<p>
+			Astronaut Alan Bean stated</p>
+			<p>
+			<i>“After lunar liftoff . . . a great quantity of dust floated free 
+			within the cabin. This dust made breathing without the helmet 
+			difficult, and enough particles were present in the cabin atmosphere 
+			to affect our vision. The use of a whisk broom prior to ingress 
+			would probably not be satisfactory in solving the dust problem, 
+			because the dust tends to rub deeper into the garment rather than to 
+			brush off”</i>&nbsp;&nbsp;(Bean 
+			et al..,&nbsp;1970).</p>
+			<p>
+			&nbsp;&nbsp;&nbsp;&nbsp;Apparently 
+			lunar dust was brought into the lunar excursion module with items 
+			that had been exposed to the regolith when they passed through the 
+			airlock.&nbsp;&nbsp;The dust coated 
+			internal surfaces and floated in the cabin atmosphere.&nbsp;&nbsp;It 
+			adhered to space suits, hand tools, optical equipment and mechanical 
+			equipment with moving parts. The dust impaired the proper operation 
+			of seals and lubricants used on various mechanisms.&nbsp;&nbsp;Exposed 
+			optical equipment, such as camera lenses and mirrors, was adversely 
+			affected by its accumulation on optical surfaces.&nbsp;&nbsp;&nbsp;It 
+			is anticipated that solar cells that rely on the photoelectric 
+			effect will be less efficient once coated with regolith. 
+			Characteristics of the lunar dust that led to these adverse effects 
+			- such as electrostatic charge and small and angular particles, and 
+			others – are discussed below.</p>
+			<p>
+			<i>Lunar regolith</i>&nbsp;refers 
+			to all the fragmented rock material that covers the moon.&nbsp;&nbsp;<i>Lunar 
+			soil</i>&nbsp;is technically 
+			regolith excluding rocks larger than 1 cm in size.&nbsp;&nbsp;&nbsp;<i>Lunar 
+			dust</i>&nbsp;is technically 
+			defined as having particle sizes less the 20 μm with a bulk density 
+			of 1.5 g/cm<sup>3</sup>.</p>
+			<p>
+			The thickness of regolith layer depends on the region and the 
+			geologic features.&nbsp;&nbsp;&nbsp;It 
+			is estimated to be&nbsp;<span lang="EN">4-5 
+			meters thick in mare regions (lunar planes) and 10-15 m in older 
+			highland regions (plains of higher elevation than the mare).&nbsp;&nbsp;</span>On 
+			steep crater wall there may be little or no regolith.&nbsp;&nbsp;Regolith 
+			has two zones.&nbsp;&nbsp;The 
+			first few centimeters to tens of centimeters is well mixed or 
+			“gardened” zone, from the churning of repeated micrometeoroid 
+			strikes.&nbsp;</p>
+			<p>
+			The material is strikingly different than earth soil in appearance 
+			and method of formation.&nbsp;&nbsp;Examination under a microscope revealed it 
+			to be made up of a significant amount of very sharp and angular 
+			particles.&nbsp; <span lang="EN">Lunar soils are far more abrasive 
+			than earth soils.&nbsp;</span> Earth soils are 
+			created by the forces of wind and water, eventually breaking large 
+			rocks into small particles, and also causing a mechanical rounding 
+			of the particles.&nbsp;&nbsp;&nbsp;Without 
+			water and wind other mechanisms had to be at play to create lunar 
+			soil.&nbsp;&nbsp;Geologist 
+			now believe that the lunar soil was&nbsp;<span lang="EN">formed over 
+			time by the impact of large and small meteoroids and the steady 
+			bombardment of high speed micrometeoroid.&nbsp;This continually broke 
+			rock fragments to smaller particle sizes, 
+			although lunar soil may have lots of variation of particle sizes.&nbsp;&nbsp;Older 
+			soils usually have more of the finer (smaller) particles because they have 
+			been subjected to more impacts.&nbsp;&nbsp;Billions 
+			of years of the impacts churned and mixed the soil.&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+			<p>
+			Microscopic inspection of regolith reveals that it is made up of a 
+			combination of mineral fragments (<i>minerals</i>&nbsp;possess 
+			a&nbsp;<span lang="EN">characteristic 
+			chemical composition, a highly ordered atomic structure and specific 
+			physical properties</span>),&nbsp;<i>glasses</i>&nbsp;(visible 
+			without distinct grains and without a highly ordered atomic 
+			structure, that are often sharp and abrasive like broken glass and 
+			lead to the abrasiveness),&nbsp;<i>lithic 
+			fragments</i>(pieces of broken lunar rock which also contains 
+			minerals) and&nbsp;<i>agglutinates&nbsp;</i>(which 
+			are small (&lt;1 mm) lunar regolith particles bonded together with 
+			glass, Figure 3).&nbsp;&nbsp;&nbsp;The 
+			minerals are usually silicates and oxides, which both contain a 
+			significant amount of oxygen.&nbsp;&nbsp;To 
+			extract that oxygen may require high temperature processes and 
+			associated high energy input.</p>
+			<p>
+			Lunar regolith can have a high percentage of agglutinates.&nbsp;&nbsp;Agglutinates 
+			were formed by the melting and mixing that occurred when a 
+			micrometeoroid(s) struck regolith at very high speed, with impacted 
+			regolith and micrometeoroid partially melting and refreezing together.&nbsp;&nbsp;Interestingly, 
+			these are very abundant (up to 60% of lunar soil), which must imply 
+			a lot of micrometeoroid impacts have happened on the moon.&nbsp;&nbsp;They 
+			also contain a significant amount of pure iron droplets.&nbsp;&nbsp;Agglutinates 
+			are a significant contributor to soil strength and soil 
+			characteristics when digging, creating berms, building structures, 
+			etc.&nbsp;&nbsp;The presence of free and magnetic iron has&nbsp;led 
+			some to propose&nbsp;&quot;magnetic 
+			vacuuming&quot; as an excavation technique, and also &quot;microwave sintering&quot; 
+			for&nbsp;consolidating 
+			regolith&nbsp;for roads 
+			and landing pads.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+			<p>
+			Regolith also contains a significant amount of implanted&nbsp;<i>solar-wind 
+			elements</i>, including hydrogen and carbon.&nbsp;&nbsp;These 
+			are considered to be easily extracted by mild heating of regolith.</p>
+			<p>
+			<span lang="EN">&nbsp;</span><img height="262" src="SiteImageFiles/Chapter4/image087.gif" v:shapes="Picture_x0020_5" width="576" /></p>
+			<p>
+			Figure&nbsp;3&nbsp;Agglutinates, 
+			optical and electron microscope photographs<a name="agglutinates"></a></p>
+			<h3>
+			<a name="OtherPhysicalProperties">Other Physical Properties of 
+			Regolith</a></h3>
+			<h4>
+			Electrostatically Charged</h4>
+			<p>
+			Lunar dust carries an electrostatic charge, implanted by the solar 
+			winds, that allows it to stick to anything that is not grounded.&nbsp;&nbsp;The 
+			smaller particles adhere to space-suits, tools, equipment, polished 
+			reflectors, solar cells and telescope lenses.&nbsp;&nbsp;Easily 
+			disturbed by landing and launch vehicles the small particles are 
+			thrown great distances so methods are required to limit the spread.&nbsp;&nbsp;&nbsp;The 
+			lunar dust will erode bearings, gears, and other mechanical 
+			mechanisms not properly sealed.&nbsp;&nbsp;It 
+			will be difficult to disconnect and reconnect electrical, fluid and 
+			mechanical connections without dust contamination.&nbsp;&nbsp;Also, 
+			because the lunar dust is very dark, a thin layering on radiator 
+			elements can significantly raise the normal solar absorption of 
+			these elements.&nbsp;&nbsp;Because 
+			it is abrasive it can damage sensitive equipment and/or affect 
+			performance.&nbsp;It may stick with greater force to some 
+			materials than others.&nbsp;&nbsp;Measures 
+			must be taken to reduce the layering of lunar dust on equipment, 
+			such as by covering when not in use, or using specialized equipment 
+			designed for the purposes of dust removal.&nbsp;</p>
+			<p>
+			<strong>Free Radicals</strong></p>
+			<p>
+			There is some discussion that the regolith may contain free 
+			radicals, which are atoms or molecules with unpaired electrons which 
+			make them highly reactive.&nbsp;</p>
+			<h4>
+			Conductivity</h4>
+			<p>
+			Regolith has very low electrical and thermal conductivity, and low 
+			dielectric loss.&nbsp;&nbsp;The 
+			low electrical conductivity allows it to accumulate electrostatic 
+			charge, and does so from the effects of UV radiation.&nbsp;&nbsp;The 
+			DC conductivity ranges from 10<sup>-14</sup>&nbsp;mho/m 
+			when sunlit to 10<sup>-9</sup>&nbsp;mho/m 
+			in darkness.&nbsp;&nbsp;&nbsp;For 
+			this and other reasons radio transmissions should easily penetrate 
+			10 m of lunar soil&nbsp;(Heiken 
+			et al., 1991).</p>
+			<p>
+			The low thermal conductivity makes lunar soil an excellent thermal 
+			insulator.&nbsp;&nbsp;Thermal 
+			conductivity was measured to be 1.5x10<sup>-5</sup>&nbsp;W/cm<sup>2</sup>&nbsp;for 
+			the top 1-2 cm.&nbsp;&nbsp;Conductivity 
+			increases with bulk density; at 5-7 cm the conductivity increases 5 
+			to 7 times from the surface. This low conductivity means that buried 
+			habitats may need to be reject waste heat because of the thermal 
+			resistance of the regolith walls.&nbsp;Thermometers used to 
+			measure the temperature at 80 cm depth showed no temperature variation 
+			from day to night, measuring a constant 250 and 252K at two 
+			locations in the Apollo 15 landing area (Figure 4).&nbsp;&nbsp;Due 
+			to the low thermal conductivity of the lunar surface, shadowed areas 
+			of the surface can reach extremely low temperatures very quickly.&nbsp;&nbsp;</p>
+			<p>
+			<img alt="temperature with depth" longdesc="temperature with depth" src="img3A.gif" width="780" height="553" /></p>
+			<p>
+			Figure&nbsp;4. 
+			Temperature ranges during the day, as a function of depth&nbsp;(Heiken 
+			et al., 1991)</p>
+			<h3>
+			<a name="Chemistry">Chemistry</a></h3>
+			<p>
+			Lunar rocks (originating from broken bedrock) and regolith contain 
+			minerals. &nbsp;Only 
+			a limited number of minerals are found on the moon, and the more 
+			common minerals on the moon are also found on the earth.&nbsp;&nbsp;Minerals 
+			found on the moon include the silicates, which have silicon and 
+			oxygen atoms in their molecule, along with other elements such as 
+			Calcium, Iron, Sodium, Magnesium and Aluminum.&nbsp;&nbsp;Oxide 
+			minerals all have oxygen in their molecule, along with elements such 
+			as Chromium, Titanium, Aluminum, Iron and Magnesium.&nbsp;</p>
+			<p>
+			Regolith is chemically different from lunar rocks, and is 
+			considered a more valuable resource.&nbsp;&nbsp;Chemical 
+			composition of regolith from Apollo and Luna mission samples are 
+			presented in Figure 5 (Note that the elements are by convention 
+			presented by their oxide formulae).&nbsp;&nbsp;The 
+			average mass percentage of major constituent elements in lunar 
+			regolith in the lunar highlands is 45% oxygen, 21% silicon, 13% 
+			aluminum, 10% calcium, 5.5% magnesium, 6% iron with less than 1% 
+			titanium, sodium and sulfur.&nbsp;&nbsp;Many 
+			chemical processes have been proposed to extract oxygen and other 
+			elements from regolith, some of which require extremely high 
+			temperatures to melt the regolith&nbsp;(Schrunk, 
+			2008).&nbsp;&nbsp;&nbsp;Applications 
+			for these elements on a sustainable lunar base include:</p>
+			<p>
+			o&nbsp;&nbsp;&nbsp;Oxygen 
+			for air and water production, and as an oxidizer in rocket 
+			propellant.</p>
+			<p>
+			o&nbsp;&nbsp;&nbsp;Hydrogen 
+			for fuel and water production</p>
+			<p>
+			o&nbsp;&nbsp;&nbsp;Aluminum, 
+			titanium and iron for structures and machinery, as a reflective or 
+			coating metal, possibly as a rocket fuel.&nbsp;</p>
+			<p>
+			o&nbsp;&nbsp;&nbsp;Aluminum 
+			for electrical wire</p>
+			<p>
+			o&nbsp;&nbsp;&nbsp;Silicon 
+			for fiber optic cable, solar cells, computer chips</p>
+			<p>
+			o&nbsp;&nbsp;&nbsp;Sulfur 
+			for lunar cement (to be mixed with regolith as aggregate to form 
+			lunar cement)</p>
+			<p>
+			<img alt="chemical composition" longdesc="chemical composition" src="img2F.gif" width="780" height="290" /></p>
+			<p>
+			Figure&nbsp;5. 
+			The chemistry of lunar regolith at different locations&nbsp;(Heiken 
+			et al., 1991)</p>
+			<p>
+			Other volatile elements called&nbsp;<i>solar-wind-implanted 
+			element</i>&nbsp;exist on the 
+			regolith, but in lesser amounts.&nbsp;&nbsp;Other 
+			than the dark craters, hydrogen only occurs as a 
+			solar-wind-implanted element that penetrate and are embedded a short 
+			depth (a few hundredths of a micrometer) into the surface of 
+			particles of exposed regolith.&nbsp;&nbsp;The 
+			most abundant element from the solar winds is hydrogen, followed by 
+			helium. Carbon and nitrogen are also solar-wind-implanted elements, 
+			along with noble gases helium, neon, argon, xenon and krypton. The 
+			concentrations of H, C and N are believed to be quite low (less than 
+			100 micrograms/gram) and only in the lunar soils. It is estimated 
+			that excavating 10cm deep, .7 km<sup>2</sup>&nbsp;area 
+			would produce 1 ton of H (based on 50&nbsp;mg/g 
+			regolith)&nbsp;(Eckart, 1999).&nbsp;&nbsp;One 
+			km square of regolith, 2m deep could produce 1.5 million liters of 
+			water&nbsp;(Eckart, 1999).&nbsp;&nbsp;Solar-wind-implanted 
+			elements are volatiles that can be removed by moderate heating (up 
+			to 700 degrees C).&nbsp;&nbsp;The 
+			dark craters at the poles do have significantly higher concentration 
+			of hydrogen, possibly as water-ice.&nbsp;&nbsp;A 
+			future mission will determine the nature of the hydrogen present in 
+			dark lunar craters.</p>
+			<p>
+			<sup>3</sup>He (helium-3) is another trace element planted by solar 
+			winds in extremely low concentrations, with potential use for 
+			commercial fusion power.&nbsp;&nbsp;Many 
+			other elements exist in trace amounts, see the Lunar Sourcebook if 
+			interested.&nbsp;</p>
+			<h3>
+			<a name="GeotechnicalandEngineeringProperties">Geotechnical 
+			and Engineering Properties</a></h3>
+			<p>
+			Geotechnical properties include information about the particle size 
+			and distribution, bulk density and relative density.&nbsp;&nbsp;Engineering 
+			(soil mechanics) properties include parameter values that can be 
+			used to predict soil behavior and forces expected from the digging 
+			tool in order to size the frame, bearings, motors, and mechanisms of 
+			an excavator.&nbsp;&nbsp;&nbsp;&nbsp;Engineering 
+			properties include cohesion and internal friction angle, although&nbsp;the 
+			mathematical models have been poor predictors of excavation forces&nbsp;(Willman 
+			&amp; Boles, 1995).&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+			<p>
+			Samples of regolith were collected by astronauts during the six 
+			Apollo moon landing missions (Apollo 11, 12, 14, 15, 16 and 17) and 
+			Luna 24.&nbsp;&nbsp;Over 
+			300 kg of samples were collected, brought back to earth and studied.&nbsp;&nbsp;The 
+			dirt was collected in a variety of ways, including coring (Figure 6 
+			and 7) 
+			to collect subsurface samples with a drill and drill-stem corer 
+			(Figure 8).&nbsp;&nbsp;More 
+			sample cores&nbsp;can 
+			be viewed at<a href="http://www.lpi.usra.edu/lunar/samples/index.shtml#soils">http://www.lpi.usra.edu/lunar/samples/index.shtml#soils</a>.&nbsp;&nbsp;At 
+			the&nbsp;surface 
+			regolith has a significant amount of extremely 
+			fine particles&nbsp;of 
+			lunar dust.&nbsp;&nbsp;&nbsp;Lunar 
+			dust is so small that it cannot be seen with the human eye, and it 
+			constitutes about 10-20%&nbsp;&nbsp;by 
+			weight of the soil.&nbsp;&nbsp;The 
+			mean regolith particle size is between 40-100&nbsp;mm.&nbsp;&nbsp;The 
+			largest “particles” in the regolith are rocks up to .8m diameter.&nbsp;&nbsp;&nbsp;How 
+			did the regolith particles get so small?&nbsp;&nbsp;Repeated 
+			micro-meteoroid impacts over a long period of time are believed to 
+			have ground it down to this size.</p>
+			<p>
+			<img alt="Lunar Sourcebook core" longdesc="Lunar Sourcebook core" src="Extract354Lunarsourcebook.jpg" width="580" height="783" />&nbsp;</p>
+			<p>
+			Figure 6.&nbsp; Drawing of 41 cm of a core sample returned to earth 
+			by Apollo 12&nbsp; (Heiken 
+			et al., 1991).</p>
+			<table style="width: 100%">
+				<tr>
+					<td>
+					<img alt="Core sample" longdesc="core sample" src="img24.jpg" /><img alt="core sample, deeper" longdesc="core sample, deeper" src="img25.jpg" width="425" height="654" /></td>
+					<td>&nbsp;</td>
+				</tr>
+			</table>
+			<p>
+			Figure&nbsp;7&nbsp;&nbsp;Photographs of a core sample, 0-3 cm depth on left, 
+			13-15 cm depth on right (LPI).<br />
+			<br clear="all" />
+			</p>
+			<p>
+			<img border="0" height="267" src="SiteImageFiles/Chapter4/image142.gif" v:shapes="Picture_x0020_9" width="401" /></p>
+			<p>
+			Figure&nbsp;8. 
+			Core tube sampler (Heiken 
+			et al., 1991)</p>
+			<p>
+			The particle size increases with depth below the surface.&nbsp;&nbsp;These 
+			particles are described as being sharp, jagged, and extremely 
+			abrasive, like broken glass.&nbsp;&nbsp;Drilling 
+			into the regolith the average particle size will increase, until the 
+			drill eventually hit bedrock if one digs deep enough.&nbsp; </p>
+			<p>
+			The&nbsp;<i>bulk density</i>&nbsp;(weight 
+			of soil per unit volume) at the surface is approximately 1.3 g/cm<sup>3</sup>&nbsp;(water 
+			is 1 g/cm),&nbsp;&nbsp;increases 
+			rapidly to 1.52 g/cm<sup>3</sup>&nbsp;&nbsp;at 
+			a depth of 10 cm, then more gradually to 1.83 g/cm<sup>3</sup>&nbsp;&nbsp;at 
+			a depth of 100 cm.&nbsp; Thereafter, the density asymptotically 
+			approaches a value of 1.92 g/cm<sup>3</sup>.&nbsp;&nbsp;&nbsp;The soil is not as 
+			dense a solid rock because of the presence of voids between the 
+			particles.&nbsp;&nbsp;&nbsp;The 
+			density of a typical soil particle or lunar rock is about 3.1 g/cm<sup>3</sup>.&nbsp;</p>
+			<p>
+			<i>Relative density</i>&nbsp;<i>r<sub>R</sub></i><sub>&nbsp;</sub>is 
+			a measure soil particle packing.&nbsp;&nbsp;<i>Void 
+			ratio</i>&nbsp;<i>e</i>&nbsp;is 
+			the volume of void space between particles divided by the total 
+			volume.&nbsp;&nbsp;Relative 
+			density is a percentage scaling of the range from minimum to maximum 
+			void ratio as defined by the equation:</p>
+			<p>
+			<sub>
+			<img src="SiteImageFiles/Chapter5/image143.gif" /></sub></p>
+			<p>
+			Relative density increases rapidly for the first 5-10 cm to a very 
+			high relative density. Relative densities of lunar soils vary from 
+			65% near the surface to over 90% below 30 cm.&nbsp;&nbsp;&nbsp;Relative 
+			density of a given soil can be increased by low-amplitude vertical 
+			shaking,&nbsp;&nbsp;causing 
+			the soil particles to settle due to gravity to a more tightly packed 
+			arrangement.&nbsp;&nbsp;&nbsp;The 
+			soil will continue to increase in bulk density with time on the 
+			shaker, until it reaches a limiting bulk density.&nbsp;&nbsp;At 
+			100% relative density the particles have oriented and packed 
+			preferentially into the tightest (most dense) packing possible, i.e. 
+			it is &quot;well consolidated&quot;.&nbsp;&nbsp;Even 
+			when densely packed, the regolith is still very porous, i.e. having 
+			lots of void space between the particles, in fact it can be up to 
+			50% void space.&nbsp;&nbsp;Lunar 
+			soils are very densely packed when compared to earth soils; the 
+			cause of this effect is again attributed to continuously 
+			micrometeoroid bombardment that continuously churns the top soil, 
+			while shaking and increasing the relative density of the soil below.&nbsp;&nbsp;The 
+			relative density affects properties such as thermal conductivity, 
+			seismic velocity, shear strength, compressibility and dielectric 
+			constant.&nbsp;&nbsp;The 
+			depth of penetration of LRV was related to the relative density, the 
+			average depth being 1.25 cm.&nbsp;&nbsp;When 
+			walking on the surface, astronaut Buzz Aldrin noted that the soil at 
+			the surface was soft, but there was a much firmer stratum at a 
+			shallow depth.&nbsp;</p>
+			<p>
+			Strength of lunar soils is may be explained by Mohr-Coulomb equation<a name="mohrcoulombeqn"></a>:</p>
+			<p>
+			<img border="0" src="SiteImageFiles/Chapter5/image144.gif" v:shapes="_x0000_i1026" /></p>
+			<p>
+			<span class="style9">τ</span>&nbsp;is 
+			the shear strength (kPa), c is cohesion,&nbsp;<span class="style9">φ</span>&nbsp;is 
+			the friction angle and&nbsp;<span class="style9">σ</span>&nbsp;is 
+			the normal stress.&nbsp;&nbsp;Parameter 
+			values for c and&nbsp;<span class="style9">φ</span> can be 
+			determined by standard soil mechanics tests.&nbsp;&nbsp;&nbsp;By soil mechanics 
+			convention&nbsp;<span class="style9">σ positive</span> when in compression.&nbsp; 
+			Shear strength increases with normal or confining stress, which 
+			is expected since particles become more interlocked.&nbsp;&nbsp;&nbsp;Shear 
+			failure can be imaged as one plane sliding on another when&nbsp;the 
+			sliding forces exceed the&nbsp;limiting 
+			values of static friction.&nbsp;Cohesion 
+			c represents the soil shear strength when there is no confining 
+			pressure, and lunar soils have large 
+			cohesion compared to earth soils.&nbsp;&nbsp;Distinct 
+			astronaut footprints are evidence of nonzero cohesion (Figure 9).</p>
+			<p>
+			&nbsp;If a Mohr’s circle representation of a stress state 
+			(plotted in the&nbsp;<span class="style9">τ-</span>&nbsp;<span class="style9">σ
+			</span>plane) 
+			is below the line defined by the&nbsp;equation, 
+			then the soil should not fail.&nbsp;&nbsp;The 
+			Mohr-Coulomb equation is also used for brittle materials, and is 
+			used to predict the failure of lunar&nbsp;soils&nbsp;under 
+			simple load conditions.&nbsp;&nbsp;&nbsp;Friction 
+			angle and cohesion increase&nbsp;with 
+			depth in lunar soils, and are shown in Figure 11.&nbsp;&nbsp;This 
+			is not unexpected, given that lunar soils have better packing 
+			(higher relative density) with greater depth.&nbsp;&nbsp;The 
+			shear strength is needed in the analytical prediction of the 
+			ultimate <em>bearing capacity</em>, <em>slope stability </em>and <em>trafficability</em> (the 
+			capacity of a soil to provide sufficient traction for movement).&nbsp;&nbsp;&nbsp;&nbsp;Excavation 
+			forces can also be predicted based on Mohr-Coulomb Theory.</p>
+			<p>
+			<i>Bearing Capacity</i></p>
+			<p>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The 
+			bearing capacity is the ability of a soil to support a load, such as 
+			a structure or an astronaut, and depends on the load and the area of 
+			the footing.&nbsp;&nbsp;Soil 
+			settlement can also be estimated.&nbsp;&nbsp;According 
+			to (Heiken et al., 1991), &nbsp;the 
+			ultimate bearing capacity is very high and therefore the lunar 
+			surface should be able to support any conceivable spacecraft or 
+			structure, although a complete understanding of lunar soil strength 
+			under higher stress conditions will be required.</p>
+			<p>
+			<i>Slope Stability</i></p>
+			<p>
+			&nbsp;&nbsp;&nbsp;&nbsp;Slope 
+			stability, as evidenced in the lunar missions, may be explainable by 
+			shear strength, Mohr-Coulomb theory and parameter values (although 
+			an improved equation is presented in&nbsp;(Heiken 
+			et al., 1991)).&nbsp;The deeper a cut, the less the angle 
+			can be of a stable slope (Figure 12).&nbsp;&nbsp;&nbsp;According 
+			to Figure 12, an excavated slope can be vertical to a depth of 3 m, 
+			and in fact boreholes in the lunar surface remained with stable 
+			walls after the bit was removed.&nbsp;&nbsp;&nbsp;However, 
+			when constructing a berm or embankment, either by dumping or dumping 
+			then compacting, the soil will not be as strong, so the maximum 
+			slope will be less than an excavated slope.&nbsp;&nbsp;This 
+			occurs because the undisturbed soil is already in a highly packed 
+			(high density) state, but looses that and becomes more loosely 
+			packed when disturbed.&nbsp;</p>
+			<p>
+			<i>Trafficability</i></p>
+			<p>
+			&nbsp;&nbsp;&nbsp;&nbsp;Trafficability 
+			is the capacity of a soil to provide sufficient traction.&nbsp;&nbsp;From 
+			the Apollo mission and the LRV, wheeled vehicles were effective and 
+			were able to generate needed traction.&nbsp;&nbsp;However 
+			the LRV was not carrying a heavy load, such as regolith from an 
+			excavation site.&nbsp;&nbsp;On 
+			one instance the Apollo 15 LRV encountered soft soil and spun its 
+			wheels, so soft soil could be a problem in a heavily loaded vehicle 
+			or hauling a heavy load.&nbsp;&nbsp;Bekker 
+			equations&nbsp;(Bekker, 1969)&nbsp;have 
+			been used to determine the sinkage, rolling resistance and forward 
+			thrust.&nbsp;&nbsp;</p>
+			<p>
+			<img alt="http://upload.wikimedia.org/wikipedia/commons/b/b8/Footprint.gif" border="0" height="257" src="SiteImageFiles/Chapter5/image147.jpg" v:shapes="Picture_x0020_13" width="261" /></p>
+			<p>
+			Figure&nbsp;9.&nbsp;&nbsp;The 
+			well-molded bootprint show the cohesiveness of the soil</p>
+			<p>
+			<img border="0" height="197" src="SiteImageFiles/Chapter5/image149.gif" v:shapes="Picture_x0020_12" width="216" /></p>
+			<p>
+			Figure&nbsp;10. 
+			This trench was dug by an Apollo 17 astronaut, showing a nearly 
+			vertical wall due to cohesion and frictional strength</p>
+			<p>
+			<img border="0" height="171" src="SiteImageFiles/Chapter5/image151.gif" v:shapes="Picture_x0020_14" width="375" /></p>
+			<p>
+			Figure&nbsp;11. 
+			Typical values of lunar soil cohesion and friction angle</p>
+			<p>
+			<img border="0" height="408" src="SiteImageFiles/Chapter5/image153.gif" v:shapes="Picture_x0020_15" width="354" /></p>
+			<p>
+			Figure&nbsp;12.&nbsp;&nbsp;Vertical 
+			trench depth versus slope (e.g. a 3m deep trench can be dug with 
+			vertical walls with a FS=1.5)</p>
+			<p>
+			&nbsp;Much work has been done on mathematical and empirical 
+			modeling of soil excavation.&nbsp;&nbsp;Blouin&nbsp;(Blouin, 
+			2001)&nbsp;reviewed resistive 
+			force models for earth moving machines and for excavators like 
+			bucketwheels.&nbsp;&nbsp;&nbsp;Willman 
+			and Boles&nbsp;(Willman &amp; 
+			Boles, 1995)&nbsp;compared 3-D 
+			models to predict the force needed to fail lunar simulant with a 
+			flat blade.&nbsp;&nbsp;Comparisons 
+			of different model simulations and experimental tests have 
+			discrepancies which are as yet unexplained.&nbsp;&nbsp;Blouin 
+			stated that “there is yet no well-established validation procedure 
+			for models of cutting and excavation”.&nbsp;&nbsp;&nbsp;A 
+			simple model proposed by Zheng&nbsp;(Zheng, 
+			2007)&nbsp;follows from a free 
+			body diagram analysis of the soil in Figure 13, including blade 
+			force and shearing along a failure surface.&nbsp;&nbsp;Zheng’s 
+			equations are easily programmed in Excel.&nbsp;&nbsp;See 
+			the Appendix for an example calculation.&nbsp;</p>
+			<p>
+			<img border="0" height="333" src="SiteImageFiles/Chapter5/image155.gif" v:shapes="Picture_x0020_16" width="576" /></p>
+			<p>
+			Figure&nbsp;13.&nbsp;&nbsp;Figure 
+			showing important variables needed to model and analyze&nbsp;&nbsp;soil 
+			excavation&nbsp;&nbsp;(Zheng, 
+			2007)</p>
+			<h3>
+			<a name="RegolithSimulants">Regolith Simulants</a></a></h3>
+			<p>
+			Only about 300 kilograms of lunar soil was brought to the earth for 
+			analysis, so it is essentially unavailable to researchers for all 
+			but the most critical testing needs.&nbsp;&nbsp;However 
+			processes (resource extraction) and engineering equipment that will 
+			be exposed to or use regolith on the moon must be tested and 
+			validated.&nbsp;&nbsp;&nbsp;Hence 
+			there has been a significant effort to create simulants that mimic 
+			some of the chemical, geotechnical, engineering and/or physical 
+			properties.&nbsp;&nbsp;&nbsp;Simulants 
+			are needed to test excavators, rovers, airlocks, earthmoving 
+			equipment, structures, dust removal techniques, space suits, etc.; 
+			these simulants should approach or match the geotechnical 
+			properties, such as the abrasive nature and particle size 
+			distribution of regolith.&nbsp;&nbsp;Simulant used to evaluate a process for oxygen production needs to 
+			match regolith chemistry more so than geotechnical properties.</p>
+			<p>
+			The first simulant for general use was JSC-1, and it was intended 
+			for engineering studies concerned with material handling, 
+			construction, excavation and transportation&nbsp;(McKay, 
+			1994).&nbsp;&nbsp;&nbsp;JSC-1 
+			attempted to approximate the grain (particle) size distribution of 
+			lunar soils, using a volcanic ash that was repeatedly impacted to 
+			reduce particle size. Figure 13 shows a tumble test of fabric bags 
+			filled with JSC-1 and placed in a rotating drum for almost 1000 
+			rotations, used to evaluate a fabric’s resistance to regolith 
+			abrasion&nbsp;(Smithers, 
+			2007).&nbsp;&nbsp;JSC-1 
+			is now all used up, but new simulants JSC-1AF (with particles &lt;/= 50mm 
+			diameter), JSC-1AVF (with particles &lt;/= 20&nbsp;mm 
+			diameter) and JSC-1AC (with particles 1mm to 5 mm diameter) have 
+			been created.&nbsp;&nbsp;&nbsp;The 
+			simulant can be purchased from ORBITEC while the supply lasts.&nbsp;New 
+			simulants are being created to incorporate the iron droplets in the 
+			agglutinate, to be used to test microwave and magnetic 
+			susceptibility&nbsp;(Schrunk, 
+			2008).</p>
+			<p>
+			&nbsp;</p>
+			<p>
+			<b>
+			<img alt="Slide53" border="0" height="351" src="SiteImageFiles/Chapter5/image156.jpg" v:shapes="Picture_x0020_17" width="468" /></b></p>
+			<p>
+			Figure&nbsp;13. 
+			Regolith bags filled with JSC-1 simulant, tumble tested to evaluate 
+			fabric resistance to regolith abrasion&nbsp;&nbsp;(Smithers, 
+			2007)</p>
+			<h2>
+			<a name="SummaryofLunarResources">Summary of Lunar Resources</a></h2>
+			<p>
+			Here is a list of resources available and potential uses for a lunar 
+			base.&nbsp;&nbsp;All 
+			these resources are&nbsp;<i>in-situ</i>, 
+			except for recycling.&nbsp;&nbsp;Using 
+			resources from the moon to sustain a lunar base is called In-Situ 
+			Resource Utilization (ISRU).&nbsp;</p>
+			<p>
+			<i>Resource: Regolith</i></p>
+		</div>
+		<p>·&nbsp;A 
+			source for oxygen for life support and fuel oxidizer</p>
+		<div>
+			<p>
+			·&nbsp;Water-ice 
+			and/or hydrogen if present, from the dark polar craters</p>
+			<p>
+			·&nbsp;Construction 
+			materials, such as</p>
+			<p class="style10">
+			o&nbsp;&nbsp;&nbsp;Concrete, 
+			with sulfur or&nbsp;epoxy 
+			cement&nbsp;+ regolith 
+			aggregate</p>
+			<p class="style10">
+			o&nbsp;&nbsp;&nbsp;Melted 
+			then cast into blocks</p>
+			<p class="style10">
+			o&nbsp;&nbsp;&nbsp;Sintered 
+			into blocks, sintered roadways</p>
+			<p class="style10">
+			o&nbsp;&nbsp;&nbsp;Fiberglass, 
+			fiber mats</p>
+			<p class="style10">
+			o&nbsp;&nbsp;&nbsp;Cast 
+			glass, ceramics</p>
+			<p>
+			·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Building 
+			material for habitats, garages, berms, landing pads, roadways.</p>
+			<p>
+			·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lava 
+			tubes for habitats and radiation shielding (if present)</p>
+			<p>
+			·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Protection from radiation and as a thermal insulator</p>
+			<p>
+			·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Raw 
+			material for solar cell and solar concentrators</p>
+			<p>
+			·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For 
+			extraction of trace elements, such as C and N</p>
+			<p>
+			·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Helium 
+			3 for fusion power</p>
+			<p>
+			<i>Resources: Solar Radiation</i></p>
+			<p>
+			·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solar 
+			energy from solar cells and solar collectors</p>
+			<p>
+			·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Temperature 
+			difference from shadow to sunlight for closed-cycle heat engine 
+			(e.g.&nbsp;<st1:place w:st="on">Stirling</st1:place>&nbsp;engine)</p>
+			<p>
+			<i>Resource: Vacuum Atmosphere</i></p>
+			<p>
+			·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A 
+			platform for scientific studies (e.g. astronomy, vacuum experiments 
+			and vacuum manufacturing)</p>
+			<p>
+			<i>Resource: Low Gravity</i></p>
+			<p>
+			·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Material 
+			processing</p>
+			<p>
+			<i>Resources from Recycling of Earth-delivered Materials</i></p>
+			<p>
+			·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reuse 
+			and scavenging of propellants<i></i></p>
+			<p>
+			·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recycling 
+			of trash for polymers, methane, propellant, hydrogen extraction<i></i></p>
+			<p>
+			·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reuse 
+			of rocket canisters for habitats</p>
+			<h2>
+			<a name="References">References</a></h2>
+			<p>
+			Bekker, M. G. (1969).&nbsp;<i>Introduction 
+			to Terrain-Vehicle Systems</i>: University of Michigan.</p>
+			<p>
+			Blouin, S., Hemami, A., Lipsett, M. (2001). Review of resistive 
+			force models for earthmoving processes.&nbsp;<i>Journal 
+			of Aerospace Engineering, 14</i>(3), 102-111.</p>
+			<p>
+			Conley, P. L. (Ed.). (1998).&nbsp;<i>Space 
+			Vehicle Mechanisms: Elements of a Successful Design</i>: John Wiley 
+			&amp; Sons.</p>
+			<p>
+			Eckart, P. (1999).&nbsp;<i>The 
+			Lunar Base Handbook</i>: McGraw-Hill.</p>
+			<p>
+			Elfer, N. C. (1996).&nbsp;<i>Structural 
+			Damage Prediction and Analysis for Hypervelocity Impact Handbook</i>. 
+			(NASA o. Document Number)</p>
+			<p>
+			Gill, W., VandenBerg, G. (1968). Agriculture Handbook No. 316.&nbsp;<i>Agricultural 
+			Research Service, US Department of Agriculture</i>.</p>
+			<p>
+			Heiken, G. H., Vaniman, D. T., &amp; French, B. M. (Eds.). (1991).&nbsp;<i>Lunar 
+			Sourcebook A User&#39;s Guide to the Moon</i>: Cambridge University 
+			Press</p>
+			<p>
+			Lunar and Planetary Institute, (2008). Lunar and Planetary Institute Website. from&nbsp;<a href="http://www.lpi.usra.edu/">http://www.lpi.usra.edu/</a></p>
+			<p>
+			McKay, D. S., Carter, J.L., Boles, W.W., Allen, C.C., Allton, J.H. 
+			(1994).&nbsp;<i>A New Lunar 
+			Soil Simulant.</i>&nbsp;Paper 
+			presented at the Engineering, Construction and Operations in Space 
+			IV.</p>
+			<p>
+			Schrunk, D., Sharpe, B., Cooper, B., Thangavelu, M. (2008).&nbsp;<i>The 
+			Moon: Resources, Future Development, and Settlement</i>&nbsp;(Second 
+			ed.): Springer-Praxis.</p>
+			<p>
+			Smithers, G. A., Nehls, M.K., Hovater, M.A., Evans, S.W., Miller, 
+			J.S., Broughton, R.M., Beale, D., Kilinc-Balci, F. (2007).&nbsp;<i>A 
+			One-Piece Lunar Regolith Bag Garage Prototype</i>&nbsp;(No. 
+			NASA/TM-2007-215073): NASA Center for AeroSpace Information</p>
+			<p>
+			Jablonski, A.M. and Ogden, K.A., (2008) Technical Requirements for 
+			Lunar Structures<em>, Journal of Aerospace Engineering</em>, 21(2), 
+			72-90</p>
+			<p>
+			Tribble, A. C. (2003).&nbsp;<i>The 
+			Space Environment: Implications for Spacecraft Design</i>: Princeto 
+			Paperbacks.</p>
+			<p>
+			Willman, B. M., &amp; Boles, W. W. (1995). Soil-Tool Interaction 
+			Theories as They Apply to Lunar Soil Simulant.&nbsp;<i>ASCE 
+			Journal of Aerospace Engineering, 8</i>(2), 88-99.</p>
+			<p>
+			Zheng, X., Burnoski, L., Agui, J., Wilkinson, A. (2007).&nbsp;<i>Calculation 
+			of Excavation Force for ISRU on Lunar Surface.</i>&nbsp;Paper 
+			presented at the 45th AIAA Aerospace Sciences Meeting and Exhibit.</p>
+			<p>
+			&nbsp;</p>
+			<h2>
+			<a name="DraftAppendix">DRAFT APPENDIX </a> 
+			– SOIL AND ROVER FORCE CALCULATIONS</h2>
+			<p>
+			ROVER FORCE CALCULATIONS:</p>
+			<p>
+			The calculations are to show the translational thrust available to a 
+			rover.&nbsp;</p>
+			<p>
+			Bekker Forward thrust equation&nbsp;(Bekker, 
+			1969):</p>
+			<p align="center">
+			&nbsp;</p>
+			<p align="center">
+			<sub>
+			<img border="0" height="45" src="SiteImageFiles/Chapter5/image036.gif" v:shapes="_x0000_i1027" width="193" /></sub></p>
+			<p>
+			Ideal drawbar pull:</p>
+			<p align="center">
+			&nbsp;</p>
+			<p align="center">
+			<sub>
+			<img border="0" src="SiteImageFiles/Chapter5/image038.gif" v:shapes="_x0000_i1028" /></sub></p>
+			<p>
+			&nbsp;</p>
+			<p>
+			Table 1: Parameter Set Base: (SI Units) Used for Traction 
+			Calculations.<sup></sup></p>
+			<table border="1" cellpadding="0" cellspacing="0">
+				<tr>
+					<td valign="top" width="239">
+					<p>
+					&nbsp;</p>
+					</td>
+					<td valign="top" width="186">
+					<p>
+					Values</p>
+					</td>
+					<td valign="top" width="213">
+					<p>
+					Units</p>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" width="239">
+					<p align="right">
+					calculated slippage,&nbsp;<i>S</i></p>
+					</td>
+					<td valign="top" width="186">
+					<p>
+					8.301650852</p>
+					</td>
+					<td valign="top" width="213">
+					<p>
+					%</p>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" width="239">
+					<p align="right">
+					scout rover mass,&nbsp;<i>W</i></p>
+					</td>
+					<td valign="top" width="186">
+					<p>
+					612</p>
+					</td>
+					<td valign="top" width="213">
+					<p>
+					kg</p>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" width="239">
+					<p align="right">
+					internal friction angle,&nbsp;<i>Φ</i></p>
+					</td>
+					<td valign="top" width="186">
+					<p>
+					35</p>
+					</td>
+					<td valign="top" width="213">
+					<p>
+					degrees</p>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" width="239">
+					<p align="right">
+					soil cohesion,&nbsp;<i>c</i></p>
+					</td>
+					<td valign="top" width="186">
+					<p>
+					170</p>
+					</td>
+					<td valign="top" width="213">
+					<p>
+					N/m<sup>2</sup></p>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" width="239">
+					<p align="right">
+					calculated wheel contact area,&nbsp;<i>A</i></p>
+					</td>
+					<td valign="top" width="186">
+					<p>
+					0.0399718978</p>
+					</td>
+					<td valign="top" width="213">
+					<p>
+					m<sup>2</sup></p>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" width="239">
+					<p align="right">
+					calculated wheel contact length,&nbsp;<i>L</i></p>
+					</td>
+					<td valign="top" width="186">
+					<p>
+					0.1884955592</p>
+					</td>
+					<td valign="top" width="213">
+					<p>
+					m</p>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" width="239">
+					<p align="right">
+					number of wheels,&nbsp;<i>n</i></p>
+					</td>
+					<td valign="top" width="186">
+					<p>
+					6</p>
+					</td>
+					<td valign="top" width="213">
+					<p>
+					&nbsp;</p>
+					</td>
+				</tr>
+				<tr>
+					<td valign="top" width="239">
+					<p align="right">
+					shear deformation slip modulus,&nbsp;<i>κ</i></p>
+					</td>
+					<td valign="top" width="186">
+					<p>
+					0.018</p>
+					</td>
+					<td valign="top" width="213">
+					<p>
+					m</p>
+					</td>
+				</tr>
+			</table>
+			<p>
+			&nbsp;</p>
+			<p>
+			&nbsp;</p>
+			<p>
+			Substituting:</p>
+			<p align="center">
+			&nbsp;</p>
+			<p align="center">
+			<sub>
+			<img border="0" src="SiteImageFiles/Chapter5/image040.gif" v:shapes="_x0000_i1029" /></sub></p>
+			<p align="center">
+			&nbsp;</p>
+			<p align="center">
+			<sub>
+			<img border="0" src="SiteImageFiles/Chapter5/image042.gif" v:shapes="_x0000_i1030" /></sub></p>
+			<p align="center">
+			or</p>
+			<p align="center">
+			<sub>
+			<img border="0" src="SiteImageFiles/Chapter5/image044.gif" v:shapes="_x0000_i1031" /></sub></p>
+			<p align="center">
+			&nbsp;</p>
+			<p>
+			The thrust,&nbsp;<i>H,&nbsp;</i>represents 
+			the thrust that will be used for blade calculations.&nbsp;&nbsp;<i>H</i>&nbsp;is 
+			assumed to be the maximal&nbsp;<i>constant</i>&nbsp;force 
+			that the rover can apply.</p>
+			<p>
+			SOIL FORCE CALCULATIONS:</p>
+			<p align="center">
+			<u>Zeng Model&nbsp;(Zheng, 
+			2007)</u></p>
+			<p align="center">
+			<u>&nbsp;</u></p>
+			<p>
+			<u>NOMENCLATURE</u></p>
+		</div>
+		<br clear="all" />
+		<div>
+			<p>
+			<sub>
+			<img border="0" src="SiteImageFiles/Chapter5/image046.gif" v:shapes="_x0000_i1032" /></sub></p>
+		</div>
+		<br clear="all" />
+		<div>
+			<p align="center">
+			<img border="0" height="184" src="SiteImageFiles/Chapter5/image164.gif" v:shapes="Picture_x0020_24" width="366" /></p>
+			<p>
+			&nbsp;</p>
+			<p align="center">
+			Figure AppII-1&nbsp;&nbsp;&nbsp;&nbsp;Excavation 
+			blade and soil body at failure</p>
+			<p>
+			<u>&nbsp;</u></p>
+			<p>
+			<u>Assumptions and Known:</u></p>
+			<p>
+			<u>&nbsp;</u></p>
+			<p>
+			<u><sub>
+			<img border="0" height="396" src="SiteImageFiles/Chapter5/image050.gif" v:shapes="_x0000_i1033" width="579" /></sub></u></p>
+			<p>
+			<u>&nbsp;</u></p>
+			<p>
+			<u>&nbsp;</u></p>
+			<p align="center">
+			<img border="0" height="255" src="SiteImageFiles/Chapter5/image167.gif" v:shapes="Picture_x0020_26" width="343" /><u></u></p>
+			<p align="center">
+			Figure AppII-2&nbsp;&nbsp;&nbsp;&nbsp;Forces 
+			Acting on the Blade</p>
+			<p>
+			<u>&nbsp;Equations:</u></p>
+			<p>
+			<u>&nbsp;</u>The total excavation forces may be calculated using the following 
+			equations:</p>
+			<p>
+			(1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub><img border="0" src="SiteImageFiles/Chapter5/image054.gif" v:shapes="_x0000_i1034" /></sub></p>
+			<p>
+			(2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub><img border="0" src="SiteImageFiles/Chapter5/image056.gif" v:shapes="_x0000_i1035" /></sub></p>
+			<p>
+			(3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub><img border="0" src="SiteImageFiles/Chapter5/image058.gif" v:shapes="_x0000_i1036" /></sub></p>
+			<p align="center">
+			<b>**Note**:</b>&nbsp;<sub><img border="0" src="SiteImageFiles/Chapter5/image060.gif" v:shapes="_x0000_i1037" /></sub>&nbsp;is 
+			neglected because the cohesion component of the friction is small 
+			due to the small surface cohesion expected on the moon.</p>
+			<p>
+			(4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub><img border="0" src="SiteImageFiles/Chapter5/image062.gif" v:shapes="_x0000_i1038" /></sub></p>
+			<p>
+			(5)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub><img border="0" src="SiteImageFiles/Chapter5/image064.gif" v:shapes="_x0000_i1039" /></sub></p>
+			<p>
+			<sub>
+			<img border="0" src="SiteImageFiles/Chapter5/image066.gif" v:shapes="_x0000_i1040" /></sub></p>
+			<p>
+			<sub>
+			<img border="0" src="SiteImageFiles/Chapter5/image068.gif" v:shapes="_x0000_i1041" /></sub></p>
+			<p>
+			&nbsp;</p>
+			<p align="center">
+			<img border="0" height="225" src="SiteImageFiles/Chapter5/image176.jpg" v:shapes="Picture_x0020_35" width="420" />&nbsp;&nbsp;</p>
+			<p align="center">
+			Figure App II-3&nbsp;&nbsp;&nbsp;&nbsp;Failure 
+			Wedge in the soil in front of the blade</p>
+			<p>
+			(9)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub><img border="0" height="27" src="SiteImageFiles/Chapter5/image072.gif" v:shapes="_x0000_i1042" width="292" /></sub></p>
+			<p>
+			<sub>
+			<img border="0" height="73" src="SiteImageFiles/Chapter5/image074.gif" v:shapes="_x0000_i1043" width="199" /></sub></p>
+			<p>
+			&nbsp;(12)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub><img border="0" src="SiteImageFiles/Chapter5/image076.gif" v:shapes="_x0000_i1044" /></sub></p>
+			<p>
+			(13)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub><img border="0" src="SiteImageFiles/Chapter5/image078.gif" v:shapes="_x0000_i1045" /></sub></p>
+			<p>
+			(14)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub><img border="0" src="SiteImageFiles/Chapter5/image080.gif" v:shapes="_x0000_i1046" /></sub></p>
+			<p>
+			<b>**Note**:</b>&nbsp;It 
+			is expected that the depth of the blade shall never exceed half of 
+			its&nbsp;&nbsp;its 
+			length.</p>
+		</div>
+		<div>
+			<p>
+			<sub>
+			<img border="0" height="23" src="SiteImageFiles/Chapter5/image082.gif" v:shapes="_x0000_i1047" width="12" /></sub><b><u>Graphical 
+			Results</u></b></p>
+			<p align="center">
+			<img border="0" src="SiteImageFiles/Chapter5/image184.gif" v:shapes="Picture_x0020_42" /></p>
+			<p class="style5">
+			<img border="0" src="SiteImageFiles/Chapter5/image186.gif" v:shapes="Picture_x0020_43" /></p>
+			<p>
+			<u><span lang="DE">Gill &amp; Vanden Berg Model&nbsp;(Gill, 
+			1968)</span></u></p>
+			<p>
+			Note that the total force calculated (522.5) is in newtons.&nbsp;&nbsp;This 
+			was then converted to pounds (1N = 4.448lb), giving a total force, 
+			T, of 117.5 pounds.</p>
+			<p>
+			<sub>
+			<img border="0" src="SiteImageFiles/Chapter5/image088.gif" v:shapes="_x0000_i1048" /></sub></p>
+			<p>
+			<sub>
+			<img border="0" src="SiteImageFiles/Chapter5/image090.gif" v:shapes="_x0000_i1049" /></sub></p>
+			<p>
+			<sub>
+			<img border="0" src="SiteImageFiles/Chapter5/image092.gif" v:shapes="_x0000_i1050" /></sub></p>
+			<p>
+			<sub>
+			<img border="0" src="SiteImageFiles/Chapter5/image094.gif" v:shapes="_x0000_i1051" /></sub></p>
+			<p>
+			<sub>
+			<img border="0" height="21" src="SiteImageFiles/Chapter5/image096.gif" v:shapes="_x0000_i1052" width="115" /></sub></p>
+			<p align="center">
+			<img src="SiteImageFiles/Chapter5/FigApp2_4.gif" /></p>
+			<p align="center">
+			Figure AppII-4&nbsp;&nbsp;&nbsp;&nbsp;Soil 
+			Forces on Bit</p>
+			<p>
+			<u>VARIABLE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UNITS</u></p>
+			<p>
+			<sub>
+			<img border="0" height="21" src="SiteImageFiles/Chapter5/image106.gif" v:shapes="_x0000_i1053" width="149" /></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[m]</p>
+			<p>
+			<sub>
+			<img border="0" height="21" src="SiteImageFiles/Chapter5/image108.gif" v:shapes="_x0000_i1054" width="144" /></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[m]</p>
+			<p>
+			<sub>
+			<img border="0" height="21" src="SiteImageFiles/Chapter5/image110.gif" v:shapes="_x0000_i1055" width="128" /></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[m]</p>
+			<p>
+			<sub>
+			<img border="0" height="21" src="SiteImageFiles/Chapter5/image112.gif" v:shapes="_x0000_i1056" width="180" /></sub><span lang="DE">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[kg/m<sup>3</sup>]</span></p>
+			<p>
+			<sub>
+			<img border="0" height="21" src="SiteImageFiles/Chapter5/image114.gif" v:shapes="_x0000_i1057" width="124" /></sub><span lang="DE">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[deg]</span></p>
+			<p>
+			<sub>
+			<img border="0" height="21" src="SiteImageFiles/Chapter5/image116.gif" v:shapes="_x0000_i1058" width="219" /></sub><span lang="DE">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[deg]</span></p>
+			<p>
+			<sub>
+			<img border="0" height="21" src="SiteImageFiles/Chapter5/image118.gif" v:shapes="_x0000_i1059" width="199" /></sub><span lang="DE">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[deg]</span></p>
+			<p>
+			<sub>
+			<img border="0" height="21" src="SiteImageFiles/Chapter5/image120.gif" v:shapes="_x0000_i1060" width="197" /></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[deg]</p>
+			<p>
+			<sub>
+			<img border="0" height="21" src="SiteImageFiles/Chapter5/image122.gif" v:shapes="_x0000_i1061" width="117" /></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[N/m<sup>2</sup>]</p>
+			<p>
+			<sub>
+			<img border="0" height="21" src="SiteImageFiles/Chapter5/image124.gif" v:shapes="_x0000_i1062" width="119" /></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[m/s]</p>
+			<p>
+			<sub>
+			<img border="0" height="23" src="SiteImageFiles/Chapter5/image126.gif" v:shapes="_x0000_i1063" width="153" /></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[m/s<sup>2</sup>]</p>
+			<p>
+			<sub>
+			<img border="0" height="21" src="SiteImageFiles/Chapter5/image128.gif" v:shapes="_x0000_i1064" width="237" /></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[N/m]</p>
+			<p>
+			<sub>
+			<img border="0" height="21" src="SiteImageFiles/Chapter5/image130.gif" v:shapes="_x0000_i1065" width="129" /></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[N]</p>
+			<p>
+			<sub>
+			<img border="0" height="21" src="SiteImageFiles/Chapter5/image132.gif" v:shapes="_x0000_i1066" width="89" /></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[N]</p>
+			<p>
+			<sub>
+			<img border="0" height="21" src="SiteImageFiles/Chapter5/image134.gif" v:shapes="_x0000_i1067" width="109" /></sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[N]</p>
+			<p>
+			&nbsp;</p>
+			<p align="center">
+			<img alt="soil force calculations" border="0" height="375" src="SiteImageFiles/Chapter5/image209.jpg" v:shapes="Picture_x0020_65" width="504" /></p>
+			<p align="center">
+			Figure AppII-5&nbsp;&nbsp;&nbsp;&nbsp;Force 
+			versus Tool Speed</p>
+			<p>
+			<b>&nbsp;</b>&nbsp;</p>
+		</div>
+		<div>
+			<hr align="left" size="1" width="33%" />
+			<div>
+				<div id="_com_1" language="JavaScript" onmouseout="msoCommentHide('_com_1')" onmouseover="msoCommentShow('_anchor_1','_com_1')">
+					<a name="_msocom_1"></a>
+				</div>
+			</div>
+		</div>
+		</o:smarttagtype>
+
+		<!-- #EndEditable -->
+		</td>
+	</tr>
+</table>
+
+				</body>
+
+<!-- #EndTemplate -->
+
+</html>

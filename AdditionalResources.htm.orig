@@ -1,0 +1,379 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+
+<!-- #BeginTemplate "Auburn%20ESMD%20Course.dwt" -->
+
+<head>
+<meta content="en-us" http-equiv="Content-Language" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<!-- #BeginEditable "doctitle" -->
+<title>Additional Resources</title>
+<style type="text/css">
+.style5 {
+	text-align: center;
+}
+.style7 {
+	color: #00FF00;
+}
+.style8 {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.style9 {
+	color: #FE4819;
+}
+</style>
+<!-- #EndEditable -->
+<style type="text/css">
+.style1 {
+	color: #FFFFFF;
+}
+.newStyle1 {
+	font-family: Calibri;
+	font-size: medium;
+	background-color: #000000;
+	background-image: url('SiteImageFiles/08.jpg');
+	color: #FFFFFF;
+}
+a {
+	color: #FE4819;
+}
+a:visited {
+	color: #00FFFF;
+}
+.style2 {
+	color: #000000;
+}
+.style3 {
+	text-align: right;
+}
+.style4 {
+	text-align: right;
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
+.style5 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+.style6 {
+	color: #00FFFF;
+	font-weight: bold;
+}
+</style>
+<script type="text/javascript">
+<!--
+function FP_swapImg() {//v1.0
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+}
+
+function FP_preloadImgs() {//v1.0
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+ return null;
+}
+// -->
+</script>
+</head>
+
+<body style="background-image: url('SiteImageFiles/tiled_bg_stars.jpg'); background-attachment: fixed; color: #FFFFFF; background-color: #000000;" onload="FP_preloadImgs(/*url*/'SiteImageFiles/button7.jpg',/*url*/'SiteImageFiles/button8.jpg',/*url*/'SiteImageFiles/button6E.jpg',/*url*/'SiteImageFiles/button6F.jpg',/*url*/'buttonA1.jpg',/*url*/'buttonB1.jpg')">
+
+<div>
+	<img alt="" src="Auburn%20Banner-psd.png" width="932" height="155" />
+	<div style="position: absolute; width: 334px; height: 117px; z-index: 1; left: 217px; top: 56px" id="layer1" class="style5">
+		<span class="style6">ESMD Course Material : Fundamentals of Lunar and 
+		Systems Engineering for Senior Project Teams, with Application to a 
+		Lunar Excavator</span><br />
+		<br />
+		Contact: David Beale, dbeale@eng.auburn.edu</div>
+	</div>
+
+<hr />
+
+<table style="width: 100%">
+	<tr>
+		<td style="width: 180px" valign="top" class="style3">
+		<a href="index.htm">
+		<img alt="Home" height="20" src="SiteImageFiles/buttonA.jpg" style="border: 0" width="180" class="style2" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="Home" --></a><a href="index.htm"><hr />
+		<a href="ChapterX.htm">
+		<img alt="Chapter X" height="20" src="SiteImageFiles/buttonB.jpg" style="border: 0" width="180" class="style2" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="Chapter X" --></a><hr />
+		<img alt="Lunar Engineering Handbook" height="40" onmousedown="FP_swapImg(1,0,/*id*/'',/*url*/'SiteImageFiles/button6F.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'',/*url*/'SiteImageFiles/buttonC.jpg')" onmouseover="FP_swapImg(1,0,/*id*/'',/*url*/'SiteImageFiles/button6E.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'',/*url*/'SiteImageFiles/button6E.jpg')" src="SiteImageFiles/buttonC.jpg" style="border: 0" width="180" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Tab 4; fp-font: Calibri; fp-font-style: Bold; fp-proportional: 0" fp-title="Lunar Engineering Handbook" --><hr noshade="noshade" style="height: 5px" />
+		</a>
+		<span class="style2"><a href="Chapter1.htm">
+		<img alt="Chapter 1" height="20" src="SiteImageFiles/buttonF.jpg" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="Chapter 1" --></a><hr class="style4" style="width: 150px" />
+		<a href="Chapter2.htm">
+		<img alt="Chapter 2" height="20" src="SiteImageFiles/button10.jpg" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="Chapter 2" --></a><hr class="style4" style="width: 150px" />
+		<a href="Chapter3.htm">
+		<img alt="Chapter 3" height="20" src="SiteImageFiles/button11.jpg" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="Chapter 3" --></a><hr class="style4" style="width: 150px" />
+		<a href="Chapter4.htm">
+		<img alt="Chapter 4" height="20" src="SiteImageFiles/button12.jpg" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="Chapter 4" --></a><hr class="style4" style="width: 150px" />
+		<a href="Chapter5.htm">
+		<img alt="Chapter 5" height="20" src="SiteImageFiles/button14.jpg" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="Chapter 5" --></a><hr class="style4" style="width: 150px" />
+		<a href="Chapter6.htm">
+		<img alt="Chapter 6" height="20" src="SiteImageFiles/button15.jpg" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="Chapter 6" --></a><hr class="style4" style="width: 150px" />
+		<a href="Chapter7.htm">
+		<img alt="Chapter 7" height="20" src="SiteImageFiles/button16.jpg" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="Chapter 7" --></a><hr class="style4" style="width: 150px" />
+		<a href="Chapter8.htm">
+		<img alt="Chapter 8" height="20" src="SiteImageFiles/button17.jpg" style="border: 0" width="150" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="Chapter 8" --></a><hr style="width: 150px" class="style4" />
+		<a href="PaulPenko81109Chapter%209.pdf">
+		<img style="border: 0" id="img1" src="button9.jpg" height="20" width="150" alt="Chapter 9" onmouseover="FP_swapImg(1,0,/*id*/'img1',/*url*/'buttonA1.jpg')" onmouseout="FP_swapImg(0,0,/*id*/'img1',/*url*/'button9.jpg')" onmousedown="FP_swapImg(1,0,/*id*/'img1',/*url*/'buttonB1.jpg')" onmouseup="FP_swapImg(0,0,/*id*/'img1',/*url*/'buttonA1.jpg')" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-proportional: 0" fp-title="Chapter 9" --></a><hr />
+		<a href="AdditionalResources.htm">
+		<img alt="Additional Resources" height="20" src="SiteImageFiles/button18.jpg" style="border: 0" width="180" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="Additional Resources" --></a><hr />
+		<a href="ContactInfo.htm">
+		<img alt="Contact Info" height="20" src="SiteImageFiles/button19.jpg" style="border: 0" width="180" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="Contact Info" --></a><hr />
+		<a href="AboutAuthors.htm">
+		<img alt="About the Authors" height="20" src="SiteImageFiles/button7.jpg" style="border: 0" width="180" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="About the Authors" --></a><hr />
+		<a href="Comments.htm">
+		<img alt="Comments" height="20" src="SiteImageFiles/button1A.jpg" style="border: 0" width="180" /><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="Comments" --></a></span><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-font: Calibri; fp-font-style: Bold; fp-font-size: 11; fp-img-hover: 0; fp-img-press: 0; fp-preload: 0; fp-bgcolor: #000000; fp-proportional: 0" fp-title="Comments" --><hr />
+		<br />
+		<br />
+		<br />
+		<br />
+		</td>
+		<td class="style1" valign="top">
+		<!-- #BeginEditable "body" -->
+<div class="style5">
+		<h1><a name="AdditionalResources">Additional Resources</a></h1>
+		</div>
+
+		<div style="width: 741px;">
+				<span class="style7">This section contains links to useful 
+				resources, present on this website or elsewhere on the web.&nbsp; 
+				Resources are categorized by relevant chapter.&nbsp; References to material available in your library, but not 
+				on this website or the web, are included at the end of each 
+				chapter of the handbook.</span><h2>Chapter 1:&nbsp; Introduction to Lunar Excavator 
+				Design for Senior Project Students&nbsp;<a href="Chapter1.htm">Chapter1.htm</a></h2>
+				<p>Chapter 1 Power Point Presentation:&nbsp;
+				<a href="CHAP1Introduction.ppt">CHAP1Introduction.ppt</a></p>
+				<p class="style8">The Lunar and Planetary Institute:
+				<a href="http://www.lpi.usra.edu/">http://www.lpi.usra.edu/</a></p>
+				<p class="style8">The Lunar Missions Timeline at the Lunar and 
+				Planetary Institute:
+				<a href="http://www.lpi.usra.edu/lunar/missions/">
+				http://www.lpi.usra.edu/lunar/missions/</a></p>
+				<p>The Lunar Sourcebook, A User&#39;s Guide to the Moon, by 
+				Heiken,G.T., Vaniman,D.T., French,B.M.,&nbsp; Lunar and 
+				Planetary Institute, Houston, Texas, 1991.&nbsp;&nbsp; This is 
+				an indispensible resource about the lunar environment, surface 
+				properties, regolith and chemistry obtained from the Apollo 
+				missions.&nbsp; It is available as a CD from the Lunar and 
+				Planetary Institute at the following link:&nbsp;
+				<a href="http://www.lpi.usra.edu/lunar_sourcebook/">
+				http://www.lpi.usra.edu/lunar_sourcebook/</a></p>
+				<font SIZE="3">
+				<p ALIGN="LEFT">&nbsp;<font SIZE="3">Outpost Science and 
+				Exploration Working Group – Lunar Architecture Update </font>&nbsp;(September 
+				2007) </font><font SIZE="3" COLOR="#0000ff"><u>
+				http://www.nasa.gov/pdf/190083main_AIAA_ESMD_finalSPACE2007.pdf
+				</p>
+				</u></font><font SIZE="3">
+				<p class="style8">Global Exploration Strategy: The Framework for 
+				Coordination Theme 2: A Sustained Presence – Extending Human 
+				Frontiers&nbsp; (May 2007) </font>
+				<font SIZE="3" COLOR="#0000ff"><u>&nbsp;http://www.nasa.gov/pdf/178109main_ges_framework.pdf 
+				http://www.nasa.gov/mission_pages/exploration/news/GES_FAQ.html
+				</p>
+				<br />
+				</u></font>
+				<span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA">NASA resources such as the Lunar E-Library and 
+				Technical Memos, etc. </span>
+				<h2>Chapter 2:&nbsp;&nbsp;Systems Engineering – The Systems Design Process
+				<a href="Chapter2.htm">Chapter2.htm</a></h2>
+				<p>Chapter 2 PowerPoint Presentatation:&nbsp;
+				<a href="Auburn_PowerPoints_SE.ppt">Chapter_2_Power_Point_Presentation_ppt</a><span class="style9"> 
+				</span>, <a href="Auburn_PowerPoints_SE.pdf">
+				Chapter_2_Power_Point_Presentation_pdf</a></p>
+				<p class="style8">The NASA Systems Engineering Handbook is the 
+				basis for the material presented in Chapter 2.&nbsp;&nbsp;&nbsp;
+				</p>
+				<p class="style8">
+				<a href="http://www.ap233.org/ap233-public-information/reference/HANDBOOK_INCOSE-SE-Hdbk-v2-r07-RELEASED-2002-03.pdf">
+				http://nen.nasa.gov/nasa_nas/ops/systems_community/NASA_SP-2007-6105_Rev_1_Final_31Dec2007.pdf</a></p>
+				<p class="style8">
+				<a href="Site%20Documents/NASA%20SP-2007-6105.pdf">Site 
+				Documents/NASA SP-2007-6105.pdf</a></p>
+				<p class="style8">
+				&nbsp;</p>
+				<p class="style8">
+				The NASA reference on the 11 Systems Engineering Function:</p>
+				<p class="style8">
+				<a href="Site%20Documents/GPG7120.5.pdf">Site 
+				Documents/GPG7120.5.pdf</a></p>
+				<p>Lisa Guerra has worked at NASA for 20 years on Systems 
+				Engineering projects, and recently has been on assignment at the 
+				University of Texas where she developed and piloted a full 
+				semester course on Systems Engineering in the Aerospace 
+				Engineering Department.&nbsp;&nbsp; In the future this material 
+				may be available on the web.</p>
+				<p>Systems Engineering has been around a long time, as this 
+				article from 1968 shows.&nbsp;&nbsp; The point of the article is: 
+				don&#39;t take Systems Engineering&#39;s detailed methodology too 
+				seriously, so seriously that design innovation is impeded by the 
+				process.&nbsp; Engineering &quot;Art and excitement&quot; should not be 
+				replaced by overly excessive attachment to Systems Engineering 
+				techniques and tools.&nbsp;&nbsp;&nbsp; <br />
+				<a href="Site%20Documents/Frosch%20on%20System%20Engineering.pdf">
+				Site Documents/Frosch on System Engineering.pdf</a></p>
+				<p class="style8">Similar &quot;warnings&quot; about Systems Engineering 
+				as above in this presentation by Joe Bonometti</p>
+				<p class="style8">
+				<a href="Site%20Documents/Good,%20Bad%20&%20Ugly%20of%20Space%20Sys%20Eng.ppt">
+				PowerPoint Presentation</a></p>
+				<p>This site has a number of case study examples of Systems 
+				Engineering Application:&nbsp;
+				<a href="http://www.afit.edu/cse/cases.cfm">
+				http://www.afit.edu/cse/cases.cfm</a></p>
+				<p class="style8">INCOSE (International Council on Systems 
+				Engineering) documents:&nbsp;&nbsp;
+				<a href="http://www.incose.org/practice/fellowsconsensus.aspx">
+				http://www.incose.org/practice/fellowsconsensus.aspx</a></p>
+				<p class="style8">
+				<a href="http://www.ap233.org/ap233-public-information/reference/HANDBOOK_INCOSE-SE-Hdbk-v2-r07-RELEASED-2002-03.pdf">
+				http://www.ap233.org/ap233-public-information/reference/HANDBOOK_INCOSE-SE-Hdbk-v2-r07-RELEASED-2002-03.pdf</a></p>
+				<p class="style8">&nbsp;</p>
+				<p class="style8">DoD Systems Engineering Handbook
+				<a href="http://www.dau.mil/pubs/pdf/SEFGuide%2001-01.pdf">
+				http://www.dau.mil/pubs/pdf/SEFGuide 01-01.pdf</a></p>
+				<h2>Chapter 3:&nbsp;&nbsp;Systems Engineering Example of a Cube 
+				Satellite <a href="Chapter3.htm">Chapter3.htm</a></h2>
+				<p>Chapter 3 PowerPoint Presentatation:&nbsp;<a href="CHAP3cubesatSEexample.ppt">Chapter 
+				3: Cube Satellite Example</a></p>
+				The site for the reports on the cube satellite example used 
+				throughout this chapter:&nbsp;&nbsp;&nbsp;
+				<a href="http://space.auburn.edu/">http://space.auburn.edu/</a><h2>Chapter 4:&nbsp;&nbsp;Systems Engineering Tools&nbsp;&nbsp;<a href="Chapter4.htm">Chapter4.htm</a></h2>
+				<p>Chapter 4 PowerPoint Presentatation:&nbsp;
+				<a href="CHAP4SEtools.ppt">Chapter_4_Power_Points</a></p>
+				<p class="style8">Gantt Charts and WBS file examples created in 
+				PROJECT:</p>
+				<p class="style8"><a href="Site%20Documents/WBSinPROJECT.mpp">
+				Site Documents/WBSinPROJECT.mpp</a>&nbsp;&nbsp;&nbsp; </p>
+				<p class="style8">
+				<a href="Site%20Documents/MSProjectMECH4240Su09.mpp">Site 
+				Documents/MSProjectMECH4240Su09.mpp</a></p>
+				<p class="style8">&nbsp;</p>
+				<p class="style8">Gantt Charts and schedule created in EXCEL by 
+				student teams:</p>
+				<p class="style8"><a href="Site%20Documents/Gantt_WBS.xlsx">Site 
+				Documents/Gantt_WBS.xlsx</a></p>
+				<p class="style8">
+				<a href="Site%20Documents/ganttchartexample.xls">Site 
+				Documents/ganttchartexample.xls</a></p>
+				<h2>Chapter 5:&nbsp;&nbsp;The Lunar Environment and Issues for Engineering 
+				Design&nbsp;&nbsp;<a href="Chapter5.htm">Chapter5.htm</a></h2>
+				<p>Chapter 5 PowerPoint Presentatation:&nbsp;<a href="CHAP5LunarEnvironment.ppt">Chapter_5_Power_Points</a></p>
+				<p>The Four Things to Know About the Geotechnical Properties of 
+				Lunar Soil.&nbsp;
+				<a href="http://www.lpi.usra.edu/lunar/surface/carrier_lunar_soils.pdf">
+				http://www.lpi.usra.edu/lunar/surface/carrier_lunar_soils.pdf</a></p>
+				<p class="style8">Lunar Regolith, Geiss, J., Engineering, 
+				Construction and Operations in Space V, Space&#39;96: Proceeding of 
+				5th International Conference, Albuequerque, NM, 1996, p.630-638
+				</p>
+				<p class="style8"><a href="Site%20Documents/Geis.pdf">Site 
+				Documents/Geis.pdf</a></p>
+				<h2>Chapter 6:&nbsp;&nbsp;Component and Material Selection&nbsp;<a href="Chapter6.htm">Chapter6.htm</a></h2>
+				<p>Chapter 6 PowerPoint Presentation:
+				<a href="CHAP6Mechanisms.ppt">Chapter_6_Power_Points</a></p>
+				<p>A Review of Mining Technology for Space:&nbsp;
+				<a href="http://www.cden.ca/2005/2ndCDEN-conference/data/10201.pdf">
+				http://www.cden.ca/2005/2ndCDEN-conference/data/10201.pdf</a></p>
+				<p class="style8">Lunar Surface Equipment Mining Study, Podnieks, 
+				E., Siekmaier, J., Engineering, Construction and Operations in 
+				Space III, Space&#39;92: Proceeding of 3rd International Conference, 
+				Denver, Colorado, 1992, p. 1104-1115</p>
+				<p class="style8"><a href="Site%20Documents/illiad1.pdf">Site 
+				Documents/illiad1.pdf</a></p>
+				<p class="style8">&nbsp;</p>
+				<p class="style8">Lunar Source Book - see the resources above 
+				for Chapter 1</p>
+				<font SIZE="3">
+				<p>Proceedings of the</font> Aerospace Mechanisms Symposia.&nbsp;
+				<a href="http://www.aeromechanisms.com/">
+				http://www.aeromechanisms.com/</a></p>
+				<p>AIAA S-114-2005, Moving Mechanical Assemblies for Space and 
+				Launch Vehicles (AIAA, Reston, VA).&nbsp;&nbsp; Can be purchased 
+				at Amazon.com.</p>
+				<p><i>NASA Space Mechanisms Handbook</i> (NASA Glenn Research 
+				Center, Cleveland, OH).&nbsp;&nbsp; This is a CD that American 
+				citizens can receive at
+				<a href="http://www.grc.nasa.gov/WWW/spacemech/CD-info.html">
+				http://www.grc.nasa.gov/WWW/spacemech/CD-info.html</a></p>
+				<font SIZE="3"><i>
+				<p>Design and Development Requirements for Mechanisms</i></font><font FACE="Times New Roman,Times New Roman" SIZE="3">, 
+				National Aeronautics and Space Administration, NASA-STD-5017, 
+				2006.</font></p>
+				<p>Apollo Lunar Surface Journal,
+				<a href="http://www.hq.nasa.gov/alsj/frame.html">
+				http://www.hq.nasa.gov/alsj/frame.html</a></p>
+				<p class="style8">European Cooperation for Space 
+				Standardization, Space Engineering, Part 3: Mechanisms, April 
+				2000</p>
+				<p class="style8">
+				<a href="http://www.esa.int/esapub/pss/ecss_web.pdf">
+				http://www.esa.int/esapub/pss/ecss_web.pdf</a></p>
+				<p class="style8">
+				<a href="http://www.esa.int/esapub/bulletin/bullet105/bul105_publicat.pdf">
+				http://www.esa.int/esapub/bulletin/bullet105/bul105_publicat.pdf</a></p>
+				<p class="style8">
+				<a href="http://www.itasat.redecasd.ita.br/images/0/07/07ECSS-E-30Part3A(25April2000)_Mechanical_Mechanism.pdf">
+				http://www.itasat.redecasd.ita.br/images/0/07/07ECSS-E-30Part3A(25April2000)_Mechanical_Mechanism.pdf</a></p>
+				<p class="style8">&nbsp;</p>
+				<p class="style8">&nbsp;Lunar Mobility Review, D. Kring&nbsp;
+				<a href="http://www.lpi.usra.edu/science/kring/lunar_exploration/briefings/lunar_mobility_review.pdf">
+				http://www.lpi.usra.edu/science/kring/lunar_exploration/briefings/lunar_mobility_review.pdf</a></p>
+				<p class="style8">&nbsp;</p>
+				<p class="style8">Lunar Rover Operations Handbook
+				<a href="http://www.hq.nasa.gov/alsj/lrvhand.html">
+				http://www.hq.nasa.gov/alsj/lrvhand.html</a></p>
+				<p class="style8">&nbsp;</p>
+				<p class="style8">Batteries and Fuel Cells in Space </p>
+				<p class="style8">
+				<a href="Site%20Documents/Batteries%20&%20Fuel%20Cells%20In%20Space%20(Legacy).pdf">
+				Site Documents/Batteries &amp; Fuel Cells In Space (Legacy).pdf</a></p>
+				<p class="style8"></p>
+				<p class="style8">Saft Lithium Ion Batteries</p>
+				<p class="style8">&nbsp;<a href="Site%20Documents/Saft%20Lithium%20Ion%20Battery.pdf">Site 
+				Documents/Saft Lithium Ion Battery.pdf</a></p>
+				<p class="style8">&nbsp;</p>
+				<p class="style8">Ultraflex Solar Arrays </p>
+				<p class="style8">
+				<a href="Site%20Documents/Ultraflex%20Solar%20Array.pdf">Site 
+				Documents/Ultraflex Solar Array.pdf</a></p>
+				<h2>Chapter 7:&nbsp;&nbsp;Thermal Considerations of Lunar Based Systems&nbsp;<a href="Chapter7.htm">Chapter7.htm</a></h2>
+				<p><a href="Site%20Documents/Load%20Tables.xls">Site 
+				Documents/Load Tables.xls</a></p>
+				<h2>Chapter 8:&nbsp;&nbsp;Computer-Aided Engineering Tools&nbsp;<a href="Chapter8.htm">Chapter8.htm</a></h2>
+				<p class="style8">ADAMS Multibody Dynamics Simulation Software:</p>
+				<p class="style8">
+				<a href="http://www.mscsoftware.com/products/adams.cfm?Q=131&amp;Z=396&amp;Y=397">
+				http://www.mscsoftware.com/products/adams.cfm?Q=131&amp;Z=396&amp;Y=397</a></p>
+				<p class="style8">&nbsp;</p>
+				<p class="style8">Dynamic Designer Software:</p>
+				<p class="style8">
+				<a href="http://www.design-simulation.com/DDM/ddm_steps.php">
+				http://www.design-simulation.com/DDM/ddm_steps.php</a>
+				</p>
+				</div>
+
+		<!-- #EndEditable -->
+		</td>
+	</tr>
+</table>
+
+				</body>
+
+<!-- #EndTemplate -->
+
+</html>
